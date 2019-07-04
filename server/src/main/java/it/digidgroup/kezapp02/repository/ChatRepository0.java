@@ -2,7 +2,10 @@ package it.digidgroup.kezapp02.repository;
 
 import it.digidgroup.kezapp02.model.Chat0;
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 
-public interface ChatRepository0 extends JpaRepository<Chat0, Long>{
-    Chat0 findByAlias(String alias);
+@Repository
+public interface ChatRepository0 
+        extends JpaRepository<Chat0, Long>{
+    Chat0 findByNickname(String nickname);
 }

@@ -12,7 +12,7 @@ public class Chat0 {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     @Column
-    private String alias;
+    private String nickname;
     @Column
     private String sessione;
 
@@ -24,12 +24,12 @@ public class Chat0 {
         this.id = id;
     }
 
-    public String getAlias() {
-        return alias;
+    public String getNickname() {
+        return nickname;
     }
 
-    public void setAlias(String alias) {
-        this.alias = alias;
+    public void setNickname(String nickname) {
+        this.nickname = nickname;
     }
 
     public String getSessione() {
