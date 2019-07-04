@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3:1", "", "Use cases", "EARoot/EA3/EA27.htm", "180.png", "135", "0", "", "Use Case diagram0","{2BADC0C9-32AC-4d94-9B10-CDD0A4206370}");
+tocTab[tocTab.length] = new Array("0.3:2", "", "Aggiorna", "EARoot/EA3/EA30.htm", "7.png", "E1119", "0", "", "UseCase0","{B71D6256-39C5-47b5-BB0F-F58F07FD7169}");
+tocTab[tocTab.length] = new Array("0.3:3", "", "Invia a tutti", "EARoot/EA3/EA31.htm", "7.png", "E1117", "0", "", "UseCase0","{F79FD1CB-10E2-4bab-9E3D-99C3DC8E415A}");
+tocTab[tocTab.length] = new Array("0.3:4", "", "Invia a uno", "EARoot/EA3/EA32.htm", "7.png", "E1118", "0", "", "UseCase0","{78F351D8-56CA-465b-B3F4-B1D9A605E5B9}");
+tocTab[tocTab.length] = new Array("0.3:5", "", "Registrazione", "EARoot/EA3/EA33.htm", "7.png", "E1116", "0", "", "UseCase0","{3D5BAA57-F9FF-4a8c-8183-C0E7E93DD2D2}");
+tocTab[tocTab.length] = new Array("0.3:6", "", "User", "EARoot/EA3/EA34.htm", "6.png", "E1115", "0", "", "Actor0","{633C7614-52F1-476c-920C-780BBED1E5D8}");

@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.2.1:1", "", "Invio messaggio", "EARoot/EA2/EA1/EA12.htm", "181.png", "137", "0", "", "Activity diagram0","{1AB74117-F8AF-4814-BAA6-7C80E89CF170}");
+tocTab[tocTab.length] = new Array("0.2.1:2", "", "Crea liste vuote contatti e messaggi", "EARoot/EA2/EA1/EA15.htm", "21.png", "E1133", "0", "", "Activity0","{B68FA55F-2208-41e7-B03B-D053163CC025}");
+tocTab[tocTab.length] = new Array("0.2.1:3", "", "Creazione nuovo messaggio", "EARoot/EA2/EA1/EA16.htm", "21.png", "E1134", "0", "", "Activity0","{EB6383AB-5776-4f3e-8221-2660BAEB4605}");
+tocTab[tocTab.length] = new Array("0.2.1:4", "", "Credo DTO con liste messaggi e contatti", "EARoot/EA2/EA1/EA17.htm", "21.png", "E1138", "0", "", "Activity0","{F815FF81-D648-477b-ADBE-DA6045207B81}");
+tocTab[tocTab.length] = new Array("0.2.1:5", "", "Invia a tutti", "EARoot/EA2/EA1/EA18.htm", "24.png", "E1139", "0", "", "Event0","{341D142A-6390-4338-B98E-520A17CB219D}");
+tocTab[tocTab.length] = new Array("0.2.1:6", "", "Invia a uno", "EARoot/EA2/EA1/EA19.htm", "24.png", "E1140", "0", "", "Event0","{E8475CE6-76B2-4b0e-82B9-A9255A3CAD31}");
+tocTab[tocTab.length] = new Array("0.2.1:7", "", "POST", "EARoot/EA2/EA1/EA20.htm", "21.png", "E1130", "0", "", "Activity0","{3919F2BD-F9F2-4090-A473-95701BD01254}");
+tocTab[tocTab.length] = new Array("0.2.1:8", "", "Preparazione dati da inviare", "EARoot/EA2/EA1/EA21.htm", "21.png", "E1129", "0", "", "Activity0","{9499A867-2EA2-487e-95DA-CA0F0B37DE9D}");
+tocTab[tocTab.length] = new Array("0.2.1:9", "", "Recuopero Chat in base a sessione", "EARoot/EA2/EA1/EA22.htm", "21.png", "E1131", "0", "", "Activity0","{B06685A0-3FDA-482c-A5B9-4FE204C64C7C}");
+tocTab[tocTab.length] = new Array("0.2.1:10", "", "Recupero tutti i contatti", "EARoot/EA2/EA1/EA23.htm", "21.png", "E1136", "0", "", "Activity0","{278A0CA5-C576-47b7-8CDB-79E3EF74EAFE}");
+tocTab[tocTab.length] = new Array("0.2.1:11", "", "Recupero tutti i messaggi privati miei e tutti quelli pubblici", "EARoot/EA2/EA1/EA24.htm", "21.png", "E1137", "0", "", "Activity0","{41D0999B-3D02-41ab-AB77-69572490A06A}");
+tocTab[tocTab.length] = new Array("0.2.1:12", "", "Salva messaggio su DB", "EARoot/EA2/EA1/EA25.htm", "21.png", "E1135", "0", "", "Activity0","{B2445B80-5E45-49df-A3AA-107A504CAEA8}");
+tocTab[tocTab.length] = new Array("0.2.1:13", "", "Visualizza Dati Ricevuti", "EARoot/EA2/EA1/EA26.htm", "21.png", "E1132", "0", "", "Activity0","{6AB2404A-E4FC-4d72-A4CF-7BE29EEA5D69}");
