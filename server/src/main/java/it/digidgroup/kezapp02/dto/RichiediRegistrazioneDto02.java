@@ -1,4 +1,4 @@
-package dto;
+package it.digidgroup.kezapp02.dto;
 
 public class RichiediRegistrazioneDto02 {
     private String nikname;

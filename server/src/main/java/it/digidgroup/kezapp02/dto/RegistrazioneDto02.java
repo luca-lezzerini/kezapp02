@@ -1,4 +1,4 @@
-package dto;
+package it.digidgroup.kezapp02.dto;
 
 import it.digidgroup.kezapp02.model.Chat02;
 import it.digidgroup.kezapp02.model.Messaggio02;
