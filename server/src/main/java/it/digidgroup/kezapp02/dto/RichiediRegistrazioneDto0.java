@@ -1,6 +1,6 @@
 package it.digidgroup.kezapp02.dto;
 
-public class RichiediRegistrazioneDto {
+public class RichiediRegistrazioneDto0 {
     private String nickName;
 
     public String getNickName() {
