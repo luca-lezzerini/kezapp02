@@ -2,35 +2,26 @@
         <input type="text" [(ngModel)]="nickName">
         <button (click)="registrazione()">Registrazione</button>
     </div>
-    <div *ngIf="sessione != null">
-        <input type="text" placeholder="messaggio"
-        [(ngModel)]="messaggio">
+    <div *ngIf="sessione !=null">
+        <input type="text" placeholder="messaggio" [(ngModel)]="messaggio">
         <button (click)="inviaTutti()">Invia a tutti</button>
-        <br>
-        Contatti
         <br>
         <table>
             <tr *ngFor="let c of contatti">
-                <td>{{c.nickName}}</td>
+                <td>{{c.nickname}}</td>
                 <td>
-                    <button (click)="inviaUno(c)">
-                        Invia
-                    </button>
+                    <button (click)="inviaUno(c)">Invia</button>
                 </td>
             </tr>
         </table>
         <br>
-        Messaggi ricevuti
+        Messaggi ricevuti 
         <button (click)="aggiorna()">Aggiorna</button>
         <br>
         <table>
             <tr *ngFor="let m of messaggi">
-                <td>
-                    {{m.testo}}
-                </td>
-                <td>
-                    {{m.aliasMittente}}
-                </td>
+                <td>{{m.testo}}</td>
+                <td>{{m.aliasMittente}}</td>
             </tr>
         </table>
     </div>
