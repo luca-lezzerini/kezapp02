@@ -17,7 +17,7 @@ public class KeZappServiceImpl3 implements KeZappService3 {
     @Override
     public RegistrazioneDto3 registrazione(RichiediRegistrazioneDto3 dto) {
         //cerco se esiste già il nickname
-        Chat3 chat = cr.findByNickname(dto.getNickName());
+        Chat3 chat = cr.findByNickName(dto.getNickName());
         //se esiste, ritorno sessione null
         RegistrazioneDto3 dx = new RegistrazioneDto3();
         if ((chat != null)) {
