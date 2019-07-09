@@ -1,0 +1,7 @@
+<div *ngIf="sessione == null">
+    <input type="text" [(ngModel)]="nickName">
+    <button (click)="registrazione()">Registrazione</button>
+</div>
+<div *ngIf="sessione !=null">
+    Io non devo essere visibile.
+</div>
