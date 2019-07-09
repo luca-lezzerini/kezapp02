@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.8.7.2:1", "", "Edit Global Configuration", "EARoot/EA8/EA7/EA2/EA845.htm", "188.png", "76", "0", "", "Custom diagram0","{54801FA8-85C7-4cb6-A678-3D57CC50DCF2}");
+tocTab[tocTab.length] = new Array("0.8.7.2:2", "", "«WireframeClientArea» ClientArea", "EARoot/EA8/EA7/EA2/EA850.htm", "16.png", "E429", "0", "", "GUIElement0","{3B97A76D-C289-41a9-A33D-BD858966B50F}");
+tocTab[tocTab.length] = new Array("0.8.7.2:3", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA7/EA2/EA851.htm", "11.png", "E427", "0", "", "Screen0","{B0CFE821-FEF1-43ca-B2A0-EF95450F3508}");
+tocTab[tocTab.length] = new Array("0.8.7.2:4", "", "«WireframeButton» Cancel", "EARoot/EA8/EA7/EA2/EA852.htm", "16.png", "E435", "E427", "", "GUIElement0","{64E16E77-15A8-43d7-A4D5-21D81701D4C0}");
+tocTab[tocTab.length] = new Array("0.8.7.2:5", "", "«WireframeButton» Save", "EARoot/EA8/EA7/EA2/EA853.htm", "16.png", "E434", "E427", "", "GUIElement0","{4B7C2219-9835-42ee-AB77-77F3E667B21F}");
+tocTab[tocTab.length] = new Array("0.8.7.2:6", "", "«WireframeTabControl» TabControl", "EARoot/EA8/EA7/EA2/EA854.htm", "16.png", "E428", "E427", "", "GUIElement0","{C9E1211C-A244-48b3-B9FA-884B51B3ED62}");
+tocTab[tocTab.length] = new Array("0.8.7.2:7", "", "«WireframeLabel» Near days", "EARoot/EA8/EA7/EA2/EA855.htm", "16.png", "E432", "E429", "", "GUIElement0","{854A8A77-050E-40d0-956D-FB3092CCA4EA}");
+tocTab[tocTab.length] = new Array("0.8.7.2:8", "", "«WireframeTextField» Text", "EARoot/EA8/EA7/EA2/EA856.htm", "16.png", "E433", "E429", "", "GUIElement0","{2B0FABA0-162D-464a-A84A-F86B7E94BB85}");
+tocTab[tocTab.length] = new Array("0.8.7.2:9", "", "«WireframeTextField» Text", "EARoot/EA8/EA7/EA2/EA857.htm", "16.png", "E431", "E429", "", "GUIElement0","{6E4A62AE-05A8-4ec1-9F3B-EB59FD0F1A82}");
+tocTab[tocTab.length] = new Array("0.8.7.2:10", "", "«WireframeLabel» Warning days", "EARoot/EA8/EA7/EA2/EA858.htm", "16.png", "E430", "E429", "", "GUIElement0","{BD4E9405-25B7-4dfb-97B6-3A2D42525BF5}");

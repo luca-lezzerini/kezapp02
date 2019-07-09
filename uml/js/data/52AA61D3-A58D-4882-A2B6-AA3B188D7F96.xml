@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.5.4.2:1", "", "GDPR", "EARoot/EA5/EA4/EA2/EA116.htm", "175.png", "131", "0", "", "Logical diagram0","{C8DBFABA-E92A-43bc-93D0-07C52B6426A4}");
+tocTab[tocTab.length] = new Array("0.5.4.2:2", "", "Art6Reason", "EARoot/EA5/EA4/EA2/EA119.htm", "5.png", "E881", "0", "", "Class0","{37A4B6BC-15AC-46f5-84D7-A9B4A775A909}");
+tocTab[tocTab.length] = new Array("0.5.4.2:3", "", "Art9Reason", "EARoot/EA5/EA4/EA2/EA120.htm", "5.png", "E882", "0", "", "Class0","{82A817EC-0C18-43ec-B5AA-A204394D8D30}");
+tocTab[tocTab.length] = new Array("0.5.4.2:4", "", "DataCategory", "EARoot/EA5/EA4/EA2/EA121.htm", "5.png", "E861", "0", "", "Class0","{40AA0938-36C9-4f5d-80A7-1A7F24C4DD37}");
+tocTab[tocTab.length] = new Array("0.5.4.2:5", "", "DataProcessing", "EARoot/EA5/EA4/EA2/EA122.htm", "5.png", "E858", "0", "", "Class0","{8D33A1AC-3B8B-4edf-9A42-A6EA1C4A2526}");
+tocTab[tocTab.length] = new Array("0.5.4.2:6", "", "DataProcessingRegistry", "EARoot/EA5/EA4/EA2/EA123.htm", "5.png", "E857", "0", "", "Class0","{4ECADFB0-3E79-4ae0-86A9-612267C95CC3}");
+tocTab[tocTab.length] = new Array("0.5.4.2:7", "", "DataRetentionType", "EARoot/EA5/EA4/EA2/EA124.htm", "5.png", "E886", "0", "", "Class0","{568419E2-F94A-48a6-8CB4-6D47AA341052}");
+tocTab[tocTab.length] = new Array("0.5.4.2:8", "", "DataSource", "EARoot/EA5/EA4/EA2/EA125.htm", "5.png", "E884", "0", "", "Class0","{7044F0CB-7737-4b4c-AC51-9F6E0CFBB9B2}");
+tocTab[tocTab.length] = new Array("0.5.4.2:9", "", "DPImpactAssessment", "EARoot/EA5/EA4/EA2/EA126.htm", "5.png", "E876", "0", "", "Class0","{6551ADDE-32E9-4d1d-8159-E8F43F122CFD}");
+tocTab[tocTab.length] = new Array("0.5.4.2:10", "", "ExternalProcessorCategory", "EARoot/EA5/EA4/EA2/EA127.htm", "5.png", "E878", "0", "", "Class0","{ED3979AC-F6C8-4b22-827C-72D71462D6F9}");
+tocTab[tocTab.length] = new Array("0.5.4.2:11", "", "KindOfProcessing", "EARoot/EA5/EA4/EA2/EA128.htm", "5.png", "E883", "0", "", "Class0","{B4AB8DBF-9AEF-4ac4-8F34-DE596999E535}");
+tocTab[tocTab.length] = new Array("0.5.4.2:12", "", "ReasonForProcessing", "EARoot/EA5/EA4/EA2/EA129.htm", "5.png", "E879", "0", "", "Class0","{A107553C-1CA5-40f4-B93A-BE82835D5D30}");
+tocTab[tocTab.length] = new Array("0.5.4.2:13", "", "SecurityMeasure", "EARoot/EA5/EA4/EA2/EA130.htm", "5.png", "E880", "0", "", "Class0","{B78577CA-8EBE-48a7-8E86-BB7ED1B08933}");
+tocTab[tocTab.length] = new Array("0.5.4.2:14", "", "SubjectAuthorization", "EARoot/EA5/EA4/EA2/EA131.htm", "5.png", "E885", "0", "", "Class0","{7236875A-4030-4623-BFA1-E7A478B92D58}");
+tocTab[tocTab.length] = new Array("0.5.4.2:15", "", "SubjectCategory", "EARoot/EA5/EA4/EA2/EA132.htm", "5.png", "E866", "0", "", "Class0","{94A8BFD7-D633-4e9c-8315-E046ABA1EE93}");

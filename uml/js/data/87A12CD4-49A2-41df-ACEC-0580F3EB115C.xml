@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.8.4.2.4:1", "", "Create New Non Compliance", "EARoot/EA8/EA4/EA2/EA4/EA748.htm", "188.png", "99", "0", "", "Custom diagram0","{6AC19F8D-854C-490a-8100-2331C407F512}");
+tocTab[tocTab.length] = new Array("0.8.4.2.4:2", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA4/EA2/EA4/EA752.htm", "11.png", "E620", "0", "", "Screen0","{0AEE2673-7E86-43d9-B110-6FF4A9C4D0D3}");
+tocTab[tocTab.length] = new Array("0.8.4.2.4:3", "", "«WireframeButton» Cancel", "EARoot/EA8/EA4/EA2/EA4/EA753.htm", "16.png", "E624", "E620", "", "GUIElement0","{ACFE3E31-4DBF-496d-9865-F236F8692E68}");
+tocTab[tocTab.length] = new Array("0.8.4.2.4:4", "", "«WireframeClientArea» ClientArea", "EARoot/EA8/EA4/EA2/EA4/EA754.htm", "16.png", "E621", "E620", "", "GUIElement0","{91133853-1550-453b-B240-D867892796F5}");
+tocTab[tocTab.length] = new Array("0.8.4.2.4:5", "", "«WireframeButton» Confirm", "EARoot/EA8/EA4/EA2/EA4/EA755.htm", "16.png", "E623", "E620", "", "GUIElement0","{4CC6B02D-6A41-49e2-8390-ED017650A0F7}");

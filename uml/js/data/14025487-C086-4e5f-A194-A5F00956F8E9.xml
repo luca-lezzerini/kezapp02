@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.6.5:1", "", "Dashboard", "EARoot/EA6/EA5/EA257.htm", "180.png", "81", "0", "", "Use Case diagram0","{64301BF6-3C01-4c03-896F-973BF5492A66}");
+tocTab[tocTab.length] = new Array("0.6.5:2", "", "Cost of incidents and complaints", "EARoot/EA6/EA5/EA260.htm", "7.png", "E483", "0", "", "UseCase0","{4FCCF2CA-E33F-47f3-B6D4-52988F4F3C9B}");
+tocTab[tocTab.length] = new Array("0.6.5:3", "", "Display documents by status", "EARoot/EA6/EA5/EA261.htm", "7.png", "E484", "0", "", "UseCase0","{8AA32B4D-7210-42b3-9D74-0F536925ED55}");
+tocTab[tocTab.length] = new Array("0.6.5:4", "", "Display documents under approvation process", "EARoot/EA6/EA5/EA262.htm", "7.png", "E486", "0", "", "UseCase0","{7E1FC344-7D16-465d-BC95-7B3C38F18EEE}");
+tocTab[tocTab.length] = new Array("0.6.5:5", "", "Incident & Complaints Report", "EARoot/EA6/EA5/EA263.htm", "7.png", "E485", "0", "", "UseCase0","{503E75B9-B45C-4c28-9DA8-B9BE6C939536}");
+tocTab[tocTab.length] = new Array("0.6.5:6", "", "Risk assessment status", "EARoot/EA6/EA5/EA264.htm", "7.png", "E482", "0", "", "UseCase0","{71A9ACF6-E715-4b7f-87EE-B90123DD8AA1}");
+tocTab[tocTab.length] = new Array("0.6.5:7", "", "Statistics of incident & complaints", "EARoot/EA6/EA5/EA265.htm", "7.png", "E488", "0", "", "UseCase0","{A33F0886-DD9F-4718-82D4-4D2E8C852ED7}");
+tocTab[tocTab.length] = new Array("0.6.5:8", "", "Status of incident & complaints", "EARoot/EA6/EA5/EA266.htm", "7.png", "E487", "0", "", "UseCase0","{5274FFD6-776E-4be3-9FBB-202B5AA6BA36}");

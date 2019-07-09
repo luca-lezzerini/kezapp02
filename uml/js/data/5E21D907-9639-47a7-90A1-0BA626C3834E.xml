@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.5.3:1", "", "Expiration management", "EARoot/EA5/EA3/EA95.htm", "175.png", "58", "0", "", "Logical diagram0","{23427745-EC15-4705-A38D-73A71B5F5850}");
+tocTab[tocTab.length] = new Array("0.5.3:2", "", "Asset", "EARoot/EA5/EA3/EA98.htm", "5.png", "E236", "0", "", "Class0","{9E636402-45C9-448c-8682-593E96DBAC1D}");
+tocTab[tocTab.length] = new Array("0.5.3:3", "", "ExpirationAssociation", "EARoot/EA5/EA3/EA99.htm", "5.png", "E295", "0", "", "Class0","{07E43CE7-741A-409e-8AEA-21C74B4E4914}");
+tocTab[tocTab.length] = new Array("0.5.3:4", "", "ExpirationDate", "EARoot/EA5/EA3/EA100.htm", "5.png", "E238", "0", "", "Class0","{96DD9452-D053-404c-A22B-39A14E4A1F83}");
+tocTab[tocTab.length] = new Array("0.5.3:5", "", "ExpirationEventLog", "EARoot/EA5/EA3/EA101.htm", "5.png", "E296", "0", "", "Class0","{E056E7ED-90F8-4b80-A17B-7E84E41C22AF}");
+tocTab[tocTab.length] = new Array("0.5.3:6", "", "ExpirationPeriod", "EARoot/EA5/EA3/EA102.htm", "5.png", "E237", "0", "", "Class0","{B5F6EA51-0C0E-4972-8D74-0726039087F9}");
+tocTab[tocTab.length] = new Array("0.5.3:7", "", "ForcedLog", "EARoot/EA5/EA3/EA103.htm", "5.png", "E339", "0", "", "Class0","{86B01480-88D3-4dfe-B48E-52F8A8004E3D}");
+tocTab[tocTab.length] = new Array("0.5.3:8", "", "GenericAsset", "EARoot/EA5/EA3/EA104.htm", "5.png", "E234", "0", "", "Class0","{E3E92BA9-35D3-41a9-B589-2C0003869DC2}");
+tocTab[tocTab.length] = new Array("0.5.3:9", "", "Person", "EARoot/EA5/EA3/EA105.htm", "5.png", "E235", "0", "", "Class0","{23A83995-1A36-4f3a-B59D-548ABD82BD19}");

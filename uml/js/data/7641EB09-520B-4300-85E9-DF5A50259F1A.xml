@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.5.8:1", "", "Users Management", "EARoot/EA5/EA8/EA184.htm", "175.png", "102", "0", "", "Logical diagram0","{B29FC2F6-7FDE-4acc-9ED4-DF53A8345AD6}");
+tocTab[tocTab.length] = new Array("0.5.8:2", "", "UserActivityLog", "EARoot/EA5/EA8/EA187.htm", "5.png", "E642", "0", "", "Class0","{ACA999DD-8345-4086-B046-57585DFC65F4}");
+tocTab[tocTab.length] = new Array("0.5.8:3", "", "UserLogin", "EARoot/EA5/EA8/EA188.htm", "5.png", "E640", "0", "", "Class0","{53305461-B58D-48b1-9FAC-B531369016AA}");
+tocTab[tocTab.length] = new Array("0.5.8:4", "", "UserRole", "EARoot/EA5/EA8/EA189.htm", "5.png", "E641", "0", "", "Class0","{7EDF2C3B-991C-481c-A7D2-E6C3AD5D72CD}");

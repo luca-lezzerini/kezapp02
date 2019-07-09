@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.6.6:1", "", "Expiration management", "EARoot/EA6/EA6/EA267.htm", "180.png", "59", "0", "", "Use Case diagram0","{7551B739-0E24-4d14-B113-17247C1603DB}");
+tocTab[tocTab.length] = new Array("0.6.6:2", "", "Associate Asset to Expiration period", "EARoot/EA6/EA6/EA270.htm", "7.png", "E293", "0", "", "UseCase0","{C2B349CF-F205-4982-8D7F-21BB16E2FD02}");
+tocTab[tocTab.length] = new Array("0.6.6:3", "", "Associate Person to Expiration Period", "EARoot/EA6/EA6/EA271.htm", "7.png", "E292", "0", "", "UseCase0","{A390CBC2-2926-4928-B7C1-9CD0CEBC3E32}");
+tocTab[tocTab.length] = new Array("0.6.6:4", "", "Daily regenerate all Expiration Dates", "EARoot/EA6/EA6/EA272.htm", "7.png", "E379", "0", "", "UseCase0","{CFC400A7-DEBD-42c5-9F28-83B1736AD858}");
+tocTab[tocTab.length] = new Array("0.6.6:5", "", "Dashboard", "EARoot/EA6/EA6/EA273.htm", "7.png", "E242", "0", "", "UseCase0","{67CDC684-36BC-4328-A8C6-0D79BE782186}");
+tocTab[tocTab.length] = new Array("0.6.6:6", "", "Force Due Date", "EARoot/EA6/EA6/EA274.htm", "7.png", "E387", "0", "", "UseCase0","{A67560DE-8691-48bc-ADCF-E43A776078DF}");
+tocTab[tocTab.length] = new Array("0.6.6:7", "", "List Expiration Dates", "EARoot/EA6/EA6/EA275.htm", "7.png", "E377", "0", "", "UseCase0","{7863AC7A-B81A-4a00-8E0B-3CEAD3F34C06}");
+tocTab[tocTab.length] = new Array("0.6.6:8", "", "«crud» Manage Assets", "EARoot/EA6/EA6/EA276.htm", "7.png", "E290", "0", "", "UseCase0","{76410C23-F3BD-48e6-B871-86E526617F66}");
+tocTab[tocTab.length] = new Array("0.6.6:9", "", "«crud» Manage Expiration Periods", "EARoot/EA6/EA6/EA277.htm", "7.png", "E291", "0", "", "UseCase0","{E42CBB6C-FD92-467e-9616-70A2A8FD1572}");
+tocTab[tocTab.length] = new Array("0.6.6:10", "", "«crud» Manage Persons", "EARoot/EA6/EA6/EA278.htm", "7.png", "E289", "0", "", "UseCase0","{9DC3A46C-DC1C-4edf-8771-57995DBF4DD2}");
+tocTab[tocTab.length] = new Array("0.6.6:11", "", "Record Event", "EARoot/EA6/EA6/EA279.htm", "7.png", "E391", "0", "", "UseCase0","{B2FEF288-54A3-47a1-B460-7B8353F092FA}");
+tocTab[tocTab.length] = new Array("0.6.6:12", "", "Update Expiration Dates", "EARoot/EA6/EA6/EA280.htm", "7.png", "E294", "0", "", "UseCase0","{571BE6C9-1750-4e9e-B72B-50BAF184E6EB}");

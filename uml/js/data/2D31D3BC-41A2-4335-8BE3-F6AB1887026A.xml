@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.8.7.1", "1", "Display Error Messages", "EARoot/EA8/EA7/EA1/EA833.htm", "4.png", "", "", "{0DB7AD5F-C3B5-4640-93AC-D18C61FB1BF1}", "Package");
+tocTab[tocTab.length] = new Array("0.8.7.2", "1", "Edit Global Configuration", "EARoot/EA8/EA7/EA2/EA847.htm", "4.png", "", "", "{9BE973DC-50BF-4e64-AADD-7762E76302B0}", "Package");

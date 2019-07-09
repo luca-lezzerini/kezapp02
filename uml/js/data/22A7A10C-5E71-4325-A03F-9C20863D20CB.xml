@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.2:1", "", "Users Management", "EARoot/EA4/EA2/EA62.htm", "188.png", "103", "0", "", "Custom diagram0","{26A11C99-8DA2-479c-AD44-B285A3D18D49}");
+tocTab[tocTab.length] = new Array("0.4.2:2", "", "«Functional» Roles values", "EARoot/EA4/EA2/EA65.htm", "19.png", "E646", "0", "", "Requirement0","{FD51B57A-7FD8-4afb-8DD5-A2F8399B57F8}");
+tocTab[tocTab.length] = new Array("0.4.2:3", "", "«Functional» User activity log cases", "EARoot/EA4/EA2/EA66.htm", "19.png", "E672", "0", "", "Requirement0","{7134184D-B202-4fde-9E7D-C1FD4F5D3D08}");

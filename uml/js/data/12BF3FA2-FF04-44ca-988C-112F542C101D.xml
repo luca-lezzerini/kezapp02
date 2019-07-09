@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.8.2.4:1", "", "Processing registry navigation map", "EARoot/EA8/EA2/EA4/EA598.htm", "183.png", "136", "0", "", "Statechart diagram0","{50A131BC-C054-479c-95CA-35A1C852B022}");
+tocTab[tocTab.length] = new Array("0.8.2.4:2", "", "... button", "EARoot/EA8/EA2/EA4/EA601.htm", "198.png", "E1003", "0", "", "Trigger0","{83EB363A-E566-40cd-93A8-A6531B9F4581}");
+tocTab[tocTab.length] = new Array("0.8.2.4:3", "", "Add New Processing or double click on row", "EARoot/EA8/EA2/EA4/EA602.htm", "198.png", "E922", "0", "", "Trigger0","{52080660-A5C0-4176-A1A1-C5C7AA1DE16F}");
+tocTab[tocTab.length] = new Array("0.8.2.4:4", "", "confirm or cancel", "EARoot/EA8/EA2/EA4/EA603.htm", "198.png", "E1004", "0", "", "Trigger0","{A82CE68E-2DED-4eed-9286-51420882C66B}");
+tocTab[tocTab.length] = new Array("0.8.2.4:5", "", "Go Back", "EARoot/EA8/EA2/EA4/EA604.htm", "198.png", "E925", "0", "", "Trigger0","{F7564561-2F43-4cea-B2B6-74025CA02C4E}");
+tocTab[tocTab.length] = new Array("0.8.2.4:6", "", "Initial", "EARoot/EA8/EA2/EA4/EA605.htm", "68.png", "E918", "0", "", "StateNode0","{3F1DF71B-BAE7-40dd-8CC4-E6762A4EA73D}");
+tocTab[tocTab.length] = new Array("0.8.2.4:7", "", "Manage Data Processing Registries", "EARoot/EA8/EA2/EA4/EA606.htm", "20.png", "E919", "0", "", "State0","{C0AEEC22-8BB6-490a-8C00-C6164F127793}");
+tocTab[tocTab.length] = new Array("0.8.2.4:8", "", "Manage Single Registry Page", "EARoot/EA8/EA2/EA4/EA607.htm", "20.png", "E920", "0", "", "State0","{41842415-B6E1-425e-8EE4-037D5CB23F82}");
+tocTab[tocTab.length] = new Array("0.8.2.4:9", "", "Single Data Processing Page", "EARoot/EA8/EA2/EA4/EA608.htm", "20.png", "E921", "0", "", "State0","{6C9B9ECB-A2B2-4d37-9132-801D7B941813}");
+tocTab[tocTab.length] = new Array("0.8.2.4:10", "", "Sub-list generation modal", "EARoot/EA8/EA2/EA4/EA609.htm", "20.png", "E1002", "0", "", "State0","{4EE79C1F-A82B-4fbf-BEA1-1849FDD254A2}");

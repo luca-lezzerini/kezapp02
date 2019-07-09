@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.8.2.1:1", "", "Manage Data Processing Registry", "EARoot/EA8/EA2/EA1/EA467.htm", "188.png", "134", "0", "", "Custom diagram0","{0E35194C-479B-495d-B19E-50227362DC97}");
+tocTab[tocTab.length] = new Array("0.8.2.1:2", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA2/EA1/EA472.htm", "11.png", "E899", "0", "", "Screen0","{D97849A0-58DB-4720-9847-C1D83D295EE3}");
+tocTab[tocTab.length] = new Array("0.8.2.1:3", "", "«WireframeButton» New", "EARoot/EA8/EA2/EA1/EA473.htm", "16.png", "E901", "E899", "", "GUIElement0","{453868C8-7442-48cc-8E8B-A0F7F8B13970}");
+tocTab[tocTab.length] = new Array("0.8.2.1:4", "", "«WireframeTable» Table", "EARoot/EA8/EA2/EA1/EA474.htm", "16.png", "E900", "E899", "", "GUIElement0","{C9F37244-A04F-487e-BC25-F6A6FFBDF763}");

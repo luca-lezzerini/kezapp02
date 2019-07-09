@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.7.2:1", "", "GDPR", "EARoot/EA7/EA2/EA363.htm", "176.png", "142", "0", "", "Package diagram0","{8E0D05E3-BDFD-4dd3-AABE-E6BB805C5329}");
+tocTab[tocTab.length] = new Array("0.7.2.1", "1", "Single data processing registry life cycle", "EARoot/EA7/EA2/EA1/EA369.htm", "4.png", "", "", "{ECF13110-CB24-4f11-AED1-D17EDC7A3977}", "Package");

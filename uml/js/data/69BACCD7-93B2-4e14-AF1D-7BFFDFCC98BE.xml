@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.8.4.2.5:1", "", "NC Management Home", "EARoot/EA8/EA4/EA2/EA5/EA756.htm", "188.png", "98", "0", "", "Custom diagram0","{0C163D0C-72AE-4974-A140-FD18E58C7FE3}");
+tocTab[tocTab.length] = new Array("0.8.4.2.5:2", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA4/EA2/EA5/EA763.htm", "11.png", "E602", "0", "", "Screen0","{9A65712A-1926-46d0-AA7B-2D6A80917DD6}");
+tocTab[tocTab.length] = new Array("0.8.4.2.5:3", "", "«WireframeButton» Add new NC", "EARoot/EA8/EA4/EA2/EA5/EA764.htm", "16.png", "E605", "E602", "", "GUIElement0","{18C97B46-75C0-4773-9167-7975BA26AC7F}");
+tocTab[tocTab.length] = new Array("0.8.4.2.5:4", "", "«WireframeCombobox» Combobox", "EARoot/EA8/EA4/EA2/EA5/EA765.htm", "16.png", "E610", "E602", "", "GUIElement0","{78A1F318-D1DD-4dca-B903-2BE2D799724E}");
+tocTab[tocTab.length] = new Array("0.8.4.2.5:5", "", "«WireframeButton» Dashboard", "EARoot/EA8/EA4/EA2/EA5/EA766.htm", "16.png", "E608", "E602", "", "GUIElement0","{C36E855C-04A3-4518-BF09-62BB115079B4}");
+tocTab[tocTab.length] = new Array("0.8.4.2.5:6", "", "«WireframeTextField» search", "EARoot/EA8/EA4/EA2/EA5/EA767.htm", "16.png", "E603", "E602", "", "GUIElement0","{A32A8D6E-AD82-43f6-BB53-8549B93F968A}");
+tocTab[tocTab.length] = new Array("0.8.4.2.5:7", "", "«WireframeButton» Search", "EARoot/EA8/EA4/EA2/EA5/EA768.htm", "16.png", "E604", "E602", "", "GUIElement0","{3178FF20-A56D-4667-BDBB-F83C06D92493}");
+tocTab[tocTab.length] = new Array("0.8.4.2.5:8", "", "«WireframeTable» Table", "EARoot/EA8/EA4/EA2/EA5/EA769.htm", "16.png", "E607", "E602", "", "GUIElement0","{0441A668-F8FA-41c6-BD41-57A300F53F39}");

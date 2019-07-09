@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.11.3:1", "", "Menu Management", "EARoot/EA11/EA3/EA1021.htm", "175.png", "115", "0", "", "Logical diagram0","{C807747E-45DA-473a-9EDC-2363020F571E}");
+tocTab[tocTab.length] = new Array("0.11.3:2", "", "«service» MenuManagementService", "EARoot/EA11/EA3/EA1025.htm", "5.png", "E734", "0", "", "Class0","{1C9DB47D-B435-45cb-BA59-F1E8FAB88A63}");

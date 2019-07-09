@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.1.1:1", "", "State Pattern", "EARoot/EA1/EA1/EA3.htm", "175.png", "145", "0", "", "Logical diagram0","{CCFC323F-E05B-4f2c-9DAB-9BFA59084E5B}");
+tocTab[tocTab.length] = new Array("0.1.1:2", "", "Automaton", "EARoot/EA1/EA1/EA7.htm", "5.png", "E1048", "0", "", "Class0","{1FF9161A-34D7-40e2-AE18-DB6BF8B5EC73}");
+tocTab[tocTab.length] = new Array("0.1.1:3", "", "Event", "EARoot/EA1/EA1/EA8.htm", "8.png", "E1050", "0", "", "Interface0","{1EE6801A-43E7-47d3-A4BD-8F0ECF716D98}");
+tocTab[tocTab.length] = new Array("0.1.1:4", "", "Event 1", "EARoot/EA1/EA1/EA9.htm", "5.png", "E1049", "0", "", "Class0","{1C1C582E-AAEE-4d6d-B2DD-FA0B446291B4}");
+tocTab[tocTab.length] = new Array("0.1.1:5", "", "Event n", "EARoot/EA1/EA1/EA10.htm", "5.png", "E1051", "0", "", "Class0","{069F4A92-2CE6-400b-9F8A-466A74353076}");
+tocTab[tocTab.length] = new Array("0.1.1:6", "", "GUIControl", "EARoot/EA1/EA1/EA11.htm", "8.png", "E1053", "0", "", "Interface0","{EB9E826F-6C62-4cee-842C-4F63212CC730}");
+tocTab[tocTab.length] = new Array("0.1.1:7", "", "SomeUserInterface", "EARoot/EA1/EA1/EA12.htm", "5.png", "E1054", "0", "", "Class0","{EC539398-BE58-4299-A395-BD1F5B108F24}");
+tocTab[tocTab.length] = new Array("0.1.1:8", "", "State", "EARoot/EA1/EA1/EA13.htm", "8.png", "E1044", "0", "", "Interface0","{7988F44B-1EFB-43e0-9202-B192F4214380}");
+tocTab[tocTab.length] = new Array("0.1.1:9", "", "State n", "EARoot/EA1/EA1/EA14.htm", "5.png", "E1047", "0", "", "Class0","{548AD3EF-697F-4b88-B2AD-506B51D24DA9}");
+tocTab[tocTab.length] = new Array("0.1.1:10", "", "State1", "EARoot/EA1/EA1/EA15.htm", "5.png", "E1045", "0", "", "Class0","{6E3FA1F9-6D2B-45f7-9E62-DF9F6B0595BC}");
+tocTab[tocTab.length] = new Array("0.1.1:11", "", "State2", "EARoot/EA1/EA1/EA16.htm", "5.png", "E1046", "0", "", "Class0","{8629D4D5-5757-4517-822D-B10C3578A9E9}");

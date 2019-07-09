@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.7.1.1:1", "", "Document Version Life Cycle", "EARoot/EA7/EA1/EA1/EA352.htm", "183.png", "87", "0", "", "Statechart diagram0","{628E4914-CDC3-440b-BF6A-A4093AF2B58C}");
+tocTab[tocTab.length] = new Array("0.7.1.1:2", "", "Checked In", "EARoot/EA7/EA1/EA1/EA355.htm", "20.png", "E533", "0", "", "State0","{18DB07BF-888C-43f0-BE30-7D91AE24E14F}");
+tocTab[tocTab.length] = new Array("0.7.1.1:3", "", "Checked Out", "EARoot/EA7/EA1/EA1/EA356.htm", "20.png", "E536", "0", "", "State0","{65686C67-3537-4bb7-A2CD-C89C78907C4B}");
+tocTab[tocTab.length] = new Array("0.7.1.1:4", "", "checkin", "EARoot/EA7/EA1/EA1/EA357.htm", "198.png", "E530", "0", "", "Trigger0","{D4BB49AC-3108-456c-80C3-1AC27A64150A}");
+tocTab[tocTab.length] = new Array("0.7.1.1:5", "", "checkout", "EARoot/EA7/EA1/EA1/EA358.htm", "198.png", "E531", "0", "", "Trigger0","{6B1CE46C-0B85-46b1-897C-7946A855F97C}");
+tocTab[tocTab.length] = new Array("0.7.1.1:6", "", "editing", "EARoot/EA7/EA1/EA1/EA359.htm", "198.png", "E532", "0", "", "Trigger0","{9F2611DB-0033-4910-833F-17B1A6F63946}");
+tocTab[tocTab.length] = new Array("0.7.1.1:7", "", "Initial", "EARoot/EA7/EA1/EA1/EA360.htm", "68.png", "E534", "0", "", "StateNode0","{2CBD12A8-E6E5-4f71-9879-82535D431AA0}");
+tocTab[tocTab.length] = new Array("0.7.1.1:8", "", "Ready To Be Approved", "EARoot/EA7/EA1/EA1/EA361.htm", "20.png", "E535", "0", "", "State0","{3BF15E64-88C4-43a9-AFA4-54249757E7AD}");
+tocTab[tocTab.length] = new Array("0.7.1.1:9", "", "Under Approval Process", "EARoot/EA7/EA1/EA1/EA362.htm", "20.png", "E537", "0", "", "State0","{B1FB17AE-5468-41a4-95A5-4ACB8074C5CE}");

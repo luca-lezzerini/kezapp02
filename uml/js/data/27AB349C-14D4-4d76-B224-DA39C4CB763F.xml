@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.5.2:1", "", "Documentable structure", "EARoot/EA5/EA2/EA82.htm", "175.png", "122", "0", "", "Logical diagram0","{8A451F29-CBC9-47f4-A483-89A9DEC71DF1}");
+tocTab[tocTab.length] = new Array("0.5.2:2", "", "Documentation Mangement", "EARoot/EA5/EA2/EA84.htm", "175.png", "119", "0", "", "Logical diagram0","{423EC9A5-01AB-450e-AE07-7222B2D991A4}");
+tocTab[tocTab.length] = new Array("0.5.2:3", "", "Documentable", "EARoot/EA5/EA2/EA88.htm", "8.png", "E785", "0", "", "Interface0","{2AABE727-B6D3-4dfa-A641-3132BC002A8D}");
+tocTab[tocTab.length] = new Array("0.5.2:4", "", "DocumentKeyword", "EARoot/EA5/EA2/EA89.htm", "5.png", "E765", "0", "", "Class0","{45743FE1-8C3B-43bf-81C3-1F23E0DCF012}");
+tocTab[tocTab.length] = new Array("0.5.2:5", "", "DocumentRevision", "EARoot/EA5/EA2/EA90.htm", "5.png", "E764", "0", "", "Class0","{4D388BB1-B094-4109-9A18-05D5D84B8130}");
+tocTab[tocTab.length] = new Array("0.5.2:6", "", "«service» DocumentVersioningDelegateService", "EARoot/EA5/EA2/EA91.htm", "5.png", "E788", "0", "", "Class0","{862B356C-F5E9-4503-AEA7-0CEB71A74658}");
+tocTab[tocTab.length] = new Array("0.5.2:7", "", "VersionedDocument", "EARoot/EA5/EA2/EA93.htm", "5.png", "E763", "0", "", "Class0","{65E0EE95-6B97-48f2-8C84-AB94A3678ECC}");

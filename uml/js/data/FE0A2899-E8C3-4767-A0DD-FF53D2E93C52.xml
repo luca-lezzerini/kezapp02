@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.6.13:1", "", "Users Management", "EARoot/EA6/EA13/EA338.htm", "180.png", "101", "0", "", "Use Case diagram0","{BF38E6E5-87FB-48b5-B7E0-90502316EF06}");
+tocTab[tocTab.length] = new Array("0.6.13:2", "", "Associate user to roles", "EARoot/EA6/EA13/EA341.htm", "7.png", "E637", "0", "", "UseCase0","{FFE72ECE-AAE9-413b-9A3D-BDB039107C14}");
+tocTab[tocTab.length] = new Array("0.6.13:3", "", "Generate user roles", "EARoot/EA6/EA13/EA342.htm", "7.png", "E643", "0", "", "UseCase0","{1689A56A-D7EC-4a7b-93C7-16F38974BDF5}");
+tocTab[tocTab.length] = new Array("0.6.13:4", "", "Log user activity", "EARoot/EA6/EA13/EA343.htm", "7.png", "E639", "0", "", "UseCase0","{753B5D62-B5F1-4764-896D-EC28E7BBAE70}");
+tocTab[tocTab.length] = new Array("0.6.13:5", "", "Manage user roles", "EARoot/EA6/EA13/EA344.htm", "7.png", "E644", "0", "", "UseCase0","{80AE7F2A-D693-4b8c-921D-86681147A986}");
+tocTab[tocTab.length] = new Array("0.6.13:6", "", "Manage UserLogin CRUD", "EARoot/EA6/EA13/EA345.htm", "7.png", "E636", "0", "", "UseCase0","{5DFFBA78-E9C6-4c9a-9E1C-76147B7779BE}");

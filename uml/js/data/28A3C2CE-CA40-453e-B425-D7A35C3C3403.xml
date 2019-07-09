@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.7.1", "1", "Documentation Mangement", "EARoot/EA7/EA1/EA350.htm", "4.png", "", "", "{53587AFB-C9AE-4618-A2EE-89504B53AE75}", "Package");
+tocTab[tocTab.length] = new Array("0.7.2", "1", "GDPR", "EARoot/EA7/EA2/EA365.htm", "4.png", "", "", "{8D0EE4F4-32A7-42ae-A22A-E10DC2C700B9}", "Package");
+tocTab[tocTab.length] = new Array("0.7.3", "1", "UIs", "EARoot/EA7/EA3/EA384.htm", "4.png", "", "", "{3820F3EC-F00B-4585-9E05-DB81969F7FDF}", "Package");

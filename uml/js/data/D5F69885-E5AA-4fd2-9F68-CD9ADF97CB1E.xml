@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.8.11.1:1", "", "Associate Asset to Expiration period 2", "EARoot/EA8/EA11/EA1/EA938.htm", "188.png", "68", "0", "", "Custom diagram0","{DEA186F1-D7D8-4a85-AC65-F0211F0EBDB3}");
+tocTab[tocTab.length] = new Array("0.8.11.1:2", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA11/EA1/EA947.htm", "11.png", "E344", "0", "", "Screen0","{07B88E5B-1332-4ef5-961B-7CA7A3B7100E}");
+tocTab[tocTab.length] = new Array("0.8.11.1:3", "", "«WireframeButton» Associate", "EARoot/EA8/EA11/EA1/EA948.htm", "16.png", "E348", "E344", "", "GUIElement0","{222D3D77-39BF-465e-8372-50435133BCA6}");
+tocTab[tocTab.length] = new Array("0.8.11.1:4", "", "«WireframeCombobox» Combobox", "EARoot/EA8/EA11/EA1/EA949.htm", "16.png", "E347", "E344", "", "GUIElement0","{EE309200-03B9-4fad-86DC-6B9C613684FC}");
+tocTab[tocTab.length] = new Array("0.8.11.1:5", "", "«WireframeButton» Disassociate", "EARoot/EA8/EA11/EA1/EA950.htm", "16.png", "E349", "E344", "", "GUIElement0","{36B87491-6137-4708-A5D5-F464B0A34E2E}");
+tocTab[tocTab.length] = new Array("0.8.11.1:6", "", "«WireframeTable» Table", "EARoot/EA8/EA11/EA1/EA951.htm", "16.png", "E352", "E344", "", "GUIElement0","{14A24CAB-545B-4d35-8960-26E87874A1B8}");
+tocTab[tocTab.length] = new Array("0.8.11.1:7", "", "«WireframeTable» Table", "EARoot/EA8/EA11/EA1/EA952.htm", "16.png", "E345", "E344", "", "GUIElement0","{99E8384A-C452-45a8-A74D-C6CAC108BDA8}");
+tocTab[tocTab.length] = new Array("0.8.11.1:8", "", "«WireframeTable» Table", "EARoot/EA8/EA11/EA1/EA953.htm", "16.png", "E346", "E344", "", "GUIElement0","{67C95B8F-4EAC-4de9-BDFA-8D4884D7CAA2}");

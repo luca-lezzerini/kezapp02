@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.8.1.2:1", "", "Associate Asset to Expiration period", "EARoot/EA8/EA1/EA2/EA445.htm", "188.png", "69", "0", "", "Custom diagram0","{E4836D1C-3635-4da5-B9C5-0754B70A23B9}");
+tocTab[tocTab.length] = new Array("0.8.1.2:2", "", "«WireframeWebsite» Webpage2", "EARoot/EA8/EA1/EA2/EA450.htm", "11.png", "E363", "0", "", "Screen0","{4A833302-5930-4089-8CE1-2C8E4C8DBD90}");
+tocTab[tocTab.length] = new Array("0.8.1.2:3", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA1/EA2/EA453.htm", "11.png", "E356", "0", "", "Screen0","{B82B8E36-3397-4094-9BED-51A434C8CE76}");
+tocTab[tocTab.length] = new Array("0.8.1.2:4", "", "«WireframeCombobox» Combobox", "EARoot/EA8/EA1/EA2/EA454.htm", "16.png", "E362", "E356", "", "GUIElement0","{B6B0661F-925D-4c61-882C-C1978A00802C}");
+tocTab[tocTab.length] = new Array("0.8.1.2:5", "", "«WireframeTable» Table", "EARoot/EA8/EA1/EA2/EA455.htm", "16.png", "E360", "E356", "", "GUIElement0","{259901C4-EF36-462e-A00F-A454397267B4}");
+tocTab[tocTab.length] = new Array("0.8.1.2:6", "", "«WireframeTable» Table", "EARoot/EA8/EA1/EA2/EA456.htm", "16.png", "E361", "E356", "", "GUIElement0","{A9E7BF94-A74C-49d8-9291-E6C136FDE581}");
+tocTab[tocTab.length] = new Array("0.8.1.2:7", "", "«WireframeButton» Associate", "EARoot/EA8/EA1/EA2/EA457.htm", "16.png", "E365", "E363", "", "GUIElement0","{60595381-725F-49ab-8BDE-4DB9F5375D45}");
+tocTab[tocTab.length] = new Array("0.8.1.2:8", "", "«WireframeLabel» Person or asset data", "EARoot/EA8/EA1/EA2/EA458.htm", "16.png", "E368", "E363", "", "GUIElement0","{22F9276F-DF5E-403a-A627-F6578C9217FE}");
+tocTab[tocTab.length] = new Array("0.8.1.2:9", "", "«WireframeButton» Remove association", "EARoot/EA8/EA1/EA2/EA459.htm", "16.png", "E366", "E363", "", "GUIElement0","{3E32FB85-C1BD-470f-8077-EA9DE436106D}");
+tocTab[tocTab.length] = new Array("0.8.1.2:10", "", "«WireframeTable» Table", "EARoot/EA8/EA1/EA2/EA460.htm", "16.png", "E364", "E363", "", "GUIElement0","{1E70EDC9-116D-4675-96EB-B947C99C2503}");
+tocTab[tocTab.length] = new Array("0.8.1.2:11", "", "«WireframeTable» Table", "EARoot/EA8/EA1/EA2/EA461.htm", "16.png", "E367", "E363", "", "GUIElement0","{E6E73891-B205-424a-8164-CCA0CFCF961D}");

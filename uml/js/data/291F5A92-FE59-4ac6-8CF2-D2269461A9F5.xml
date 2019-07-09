@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.3.1:1", "", "CRUD forms life cycle", "EARoot/EA7/EA3/EA1/EA386.htm", "183.png", "63", "0", "", "Statechart diagram0","{DC13C2B1-F610-4910-84BE-679BF37D08BF}");
+tocTab[tocTab.length] = new Array("0.7.3.1:2", "", "Delete", "EARoot/EA7/EA3/EA1/EA389.htm", "20.png", "E284", "0", "", "State0","{FFF84CD7-15A2-414d-A1EE-F1F4A36AC552}");
+tocTab[tocTab.length] = new Array("0.7.3.1:3", "", "Edit", "EARoot/EA7/EA3/EA1/EA390.htm", "20.png", "E282", "0", "", "State0","{B1CB68EF-F701-44e4-896C-0B74396A3373}");
+tocTab[tocTab.length] = new Array("0.7.3.1:4", "", "Final", "EARoot/EA7/EA3/EA1/EA391.htm", "69.png", "E287", "0", "", "StateNode0","{332E0804-F545-435c-98BA-C70A73FBD16B}");
+tocTab[tocTab.length] = new Array("0.7.3.1:5", "", "Initial", "EARoot/EA7/EA3/EA1/EA392.htm", "68.png", "E286", "0", "", "StateNode0","{4BDDECF0-97E0-49c7-AB70-A5821F53B1A6}");
+tocTab[tocTab.length] = new Array("0.7.3.1:6", "", "New", "EARoot/EA7/EA3/EA1/EA393.htm", "20.png", "E285", "0", "", "State0","{F20D5222-5095-4f1a-A3C8-85AD6077DB26}");
+tocTab[tocTab.length] = new Array("0.7.3.1:7", "", "View", "EARoot/EA7/EA3/EA1/EA394.htm", "20.png", "E283", "0", "", "State0","{554B601B-9EFA-4d1a-B8CB-19F05DE265AD}");

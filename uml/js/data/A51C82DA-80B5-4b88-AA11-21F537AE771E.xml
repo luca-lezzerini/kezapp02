@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.4.1:1", "", "Expiration management", "EARoot/EA4/EA1/EA54.htm", "188.png", "65", "0", "", "Custom diagram0","{045B92F6-6510-4488-8AF2-E535D898C5FD}");
+tocTab[tocTab.length] = new Array("0.4.1:2", "", "Expiration event log", "EARoot/EA4/EA1/EA57.htm", "19.png", "E336", "0", "", "Requirement0","{92D1B750-FC69-48cb-8870-20924DF89E4D}");
+tocTab[tocTab.length] = new Array("0.4.1:3", "", "Expiration periods", "EARoot/EA4/EA1/EA58.htm", "19.png", "E335", "0", "", "Requirement0","{EE4434AB-C1D7-43d0-8460-9F7F7112F200}");
+tocTab[tocTab.length] = new Array("0.4.1:4", "", "Forced deadline", "EARoot/EA4/EA1/EA59.htm", "19.png", "E338", "0", "", "Requirement0","{F2E0C425-723F-42e1-9A52-65C8C37CC3AC}");
+tocTab[tocTab.length] = new Array("0.4.1:5", "", "Generate and manage deadlines", "EARoot/EA4/EA1/EA60.htm", "19.png", "E334", "0", "", "Requirement0","{6008A30D-B2C8-44d7-A3A3-8493FC60A483}");
+tocTab[tocTab.length] = new Array("0.4.1:6", "", "Repetitive expiration", "EARoot/EA4/EA1/EA61.htm", "19.png", "E337", "0", "", "Requirement0","{FB778228-AEEC-406e-8321-B827EDDE0A86}");

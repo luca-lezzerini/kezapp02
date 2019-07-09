@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.11.4:1", "", "NC Event Generation", "EARoot/EA11/EA4/EA1026.htm", "175.png", "108", "0", "", "Logical diagram0","{73CA2874-06E2-49a9-BC51-59648CA5B00B}");
+tocTab[tocTab.length] = new Array("0.11.4:2", "", "«service» NCEventGenerationService", "EARoot/EA11/EA4/EA1029.htm", "5.png", "E714", "0", "", "Class0","{903940DB-3777-4602-B074-834B03213BD2}");

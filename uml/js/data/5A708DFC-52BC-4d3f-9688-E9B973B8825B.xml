@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.8.9:1", "", "Main frame", "EARoot/EA8/EA9/EA895.htm", "188.png", "61", "0", "", "Custom diagram0","{73413F9F-7093-4213-AF20-D733467C261B}");
+tocTab[tocTab.length] = new Array("0.8.9:2", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA9/EA898.htm", "11.png", "E246", "0", "", "Screen0","{D665D0CB-8874-4ed6-8413-9805F6D93033}");
+tocTab[tocTab.length] = new Array("0.8.9:3", "", "«WireframeClientArea» ClientArea", "EARoot/EA8/EA9/EA899.htm", "16.png", "E255", "E246", "", "GUIElement0","{A1A5FAE5-BB94-4597-BCB7-F0FC5F113D79}");
+tocTab[tocTab.length] = new Array("0.8.9:4", "", "«WireframeClientArea» ClientArea", "EARoot/EA8/EA9/EA900.htm", "16.png", "E256", "E246", "", "GUIElement0","{7A6B3CA8-CE62-4c8a-B4A6-CA177575B251}");
+tocTab[tocTab.length] = new Array("0.8.9:5", "", "«WireframeClientArea» ClientArea", "EARoot/EA8/EA9/EA901.htm", "16.png", "E252", "E246", "", "GUIElement0","{E9A0EFDA-2ACC-4d59-8018-64D90A3C50EC}");
+tocTab[tocTab.length] = new Array("0.8.9:6", "", "«WireframeClientArea» ClientArea", "EARoot/EA8/EA9/EA902.htm", "16.png", "E247", "E246", "", "GUIElement0","{E1368064-AC3E-49ce-927E-A2094305E0B3}");
+tocTab[tocTab.length] = new Array("0.8.9:7", "", "«WireframeButton» Button", "EARoot/EA8/EA9/EA903.htm", "16.png", "E250", "E247", "", "GUIElement0","{E2EF52DF-F10E-4dfe-974D-7A27041964AC}");
+tocTab[tocTab.length] = new Array("0.8.9:8", "", "«WireframeButton» Button", "EARoot/EA8/EA9/EA904.htm", "16.png", "E251", "E247", "", "GUIElement0","{9402C3B8-072F-4302-B99D-9199B3E42671}");
+tocTab[tocTab.length] = new Array("0.8.9:9", "", "«WireframeButton» Button", "EARoot/EA8/EA9/EA905.htm", "16.png", "E248", "E247", "", "GUIElement0","{A725A5FD-3A65-41d9-AEF4-11237A818AAE}");
+tocTab[tocTab.length] = new Array("0.8.9:10", "", "«WireframeButton» Hide/Show", "EARoot/EA8/EA9/EA906.htm", "16.png", "E254", "E252", "", "GUIElement0","{78F37279-C2B1-4561-BBB2-FDBA7E99C40B}");
+tocTab[tocTab.length] = new Array("0.8.9:11", "", "«WireframeLabel» Local Menu", "EARoot/EA8/EA9/EA907.htm", "16.png", "E253", "E252", "", "GUIElement0","{F1A88388-8C1A-4d03-802B-3BB32AC47946}");

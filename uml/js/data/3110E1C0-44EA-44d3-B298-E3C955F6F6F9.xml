@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.8.6.1", "1", "Generate user roles", "EARoot/EA8/EA6/EA1/EA801.htm", "4.png", "", "", "{CF24BBC4-9CB0-4492-ABA8-16760DED08A3}", "Package");
+tocTab[tocTab.length] = new Array("0.8.6.2", "1", "Manage user roles", "EARoot/EA8/EA6/EA2/EA811.htm", "4.png", "", "", "{3ABAD09A-32CC-44d4-A9B8-F9950B1723CA}", "Package");
+tocTab[tocTab.length] = new Array("0.8.6.3", "1", "Manage UserLogin CRUD", "EARoot/EA8/EA6/EA3/EA819.htm", "4.png", "", "", "{6B70ED3F-E817-47f2-A8FA-ADE944A9048F}", "Package");

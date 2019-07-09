@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.8.4.1.1", "1", "NCStatus CRUD", "EARoot/EA8/EA4/EA1/EA1/EA666.htm", "4.png", "", "", "{D57E14A3-C522-484e-93E0-B16633E6E4A9}", "Package");
+tocTab[tocTab.length] = new Array("0.8.4.1.2", "1", "NCType CRUD", "EARoot/EA8/EA4/EA1/EA2/EA677.htm", "4.png", "", "", "{A35A0334-B987-4f02-BA2D-7EAB8EEB76AC}", "Package");

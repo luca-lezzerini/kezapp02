@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.1:1", "", "GDPR", "EARoot/EA6/EA1/EA211.htm", "180.png", "133", "0", "", "Use Case diagram0","{3DA147A5-6E19-4f38-BD8A-1A318610A907}");
+tocTab[tocTab.length] = new Array("0.6.1:2", "", "Manage Data Breach", "EARoot/EA6/EA1/EA214.htm", "7.png", "E895", "0", "", "UseCase0","{99E19382-D4E7-4f20-8B7E-849ABB2A4927}");
+tocTab[tocTab.length] = new Array("0.6.1:3", "", "Manage Data Processing Registry", "EARoot/EA6/EA1/EA215.htm", "7.png", "E894", "0", "", "UseCase0","{9A547B20-E974-4eb5-AD70-7A8543E00EA0}");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.8.6.2:1", "", "Manage user roles", "EARoot/EA8/EA6/EA2/EA809.htm", "188.png", "106", "0", "", "Custom diagram0","{48BC6F2A-9D8F-4d0e-A8D2-59549D8B3E6A}");
+tocTab[tocTab.length] = new Array("0.8.6.2:2", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA6/EA2/EA813.htm", "11.png", "E665", "0", "", "Screen0","{41B70594-133E-4ba3-92B1-11C16F05C42B}");
+tocTab[tocTab.length] = new Array("0.8.6.2:3", "", "«WireframeButton» Cancel", "EARoot/EA8/EA6/EA2/EA814.htm", "16.png", "E669", "E665", "", "GUIElement0","{CE2C730A-E03A-4350-B928-4B4063627A63}");
+tocTab[tocTab.length] = new Array("0.8.6.2:4", "", "«WireframeButton» Confirm", "EARoot/EA8/EA6/EA2/EA815.htm", "16.png", "E668", "E665", "", "GUIElement0","{BC805F33-FDB4-4f77-B8CB-C69C067E80E8}");
+tocTab[tocTab.length] = new Array("0.8.6.2:5", "", "«WireframeTable» Table", "EARoot/EA8/EA6/EA2/EA816.htm", "16.png", "E666", "E665", "", "GUIElement0","{81135B63-06F4-44f6-8FBB-C5659B3B3044}");

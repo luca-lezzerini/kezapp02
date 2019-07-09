@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.8.2.2.2:1", "", "Life cycle", "EARoot/EA8/EA2/EA2/EA2/EA524.htm", "183.png", "141", "0", "", "Statechart diagram0","{AC6908EF-B5DD-4817-966A-EF69503AF639}");
+tocTab[tocTab.length] = new Array("0.8.2.2.2:2", "", "add new processing button", "EARoot/EA8/EA2/EA2/EA2/EA527.htm", "198.png", "E1019", "0", "", "Trigger0","{1FB3C974-FF68-4170-BAD5-000836C3607F}");
+tocTab[tocTab.length] = new Array("0.8.2.2.2:3", "", "double click on table row", "EARoot/EA8/EA2/EA2/EA2/EA528.htm", "198.png", "E1018", "0", "", "Trigger0","{70ACF855-A9D8-4736-B207-1D2652062E53}");
+tocTab[tocTab.length] = new Array("0.8.2.2.2:4", "", "Edit", "EARoot/EA8/EA2/EA2/EA2/EA529.htm", "20.png", "E1015", "0", "", "State0","{05D3A670-452A-4bcf-8BD6-8F44A638B131}");
+tocTab[tocTab.length] = new Array("0.8.2.2.2:5", "", "Initial", "EARoot/EA8/EA2/EA2/EA2/EA530.htm", "68.png", "E1013", "0", "", "StateNode0","{34A6D02C-7CDB-4a6c-BE5C-2223578E0107}");
+tocTab[tocTab.length] = new Array("0.8.2.2.2:6", "", "New State", "EARoot/EA8/EA2/EA2/EA2/EA531.htm", "20.png", "E1017", "0", "", "State0","{B137F087-D658-4faf-832D-165A3DC071D6}");
+tocTab[tocTab.length] = new Array("0.8.2.2.2:7", "", "Remove confirmation", "EARoot/EA8/EA2/EA2/EA2/EA532.htm", "20.png", "E1016", "0", "", "State0","{4B0DCEA6-E6F7-47e5-B7DA-E62EA3ECA5F8}");
+tocTab[tocTab.length] = new Array("0.8.2.2.2:8", "", "View Mode", "EARoot/EA8/EA2/EA2/EA2/EA533.htm", "20.png", "E1014", "0", "", "State0","{D76C29A0-6B06-469a-B8A1-3EC5C7A464D1}");

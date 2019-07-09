@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.5.1", "1", "Assets Management", "EARoot/EA5/EA1/EA79.htm", "4.png", "", "", "{261EECE3-3EC1-4c7c-BCA1-5D19776127E2}", "Package");
+tocTab[tocTab.length] = new Array("0.5.2", "1", "Documentation Mangement", "EARoot/EA5/EA2/EA86.htm", "4.png", "", "", "{27AB349C-14D4-4d76-B224-DA39C4CB763F}", "Package");
+tocTab[tocTab.length] = new Array("0.5.3", "1", "Expiration management", "EARoot/EA5/EA3/EA97.htm", "4.png", "", "", "{5E21D907-9639-47a7-90A1-0BA626C3834E}", "Package");
+tocTab[tocTab.length] = new Array("0.5.4", "1", "GDPR", "EARoot/EA5/EA4/EA106.htm", "4.png", "", "", "{370B1FE3-4EE7-49a0-80EA-2183B52BA5CB}", "Package");
+tocTab[tocTab.length] = new Array("0.5.5", "1", "Menu Management", "EARoot/EA5/EA5/EA135.htm", "4.png", "", "", "{5072D6FD-7DC7-4f2a-BA5A-182A4E475C2A}", "Package");
+tocTab[tocTab.length] = new Array("0.5.6", "1", "Non Compliance Management", "EARoot/EA5/EA6/EA142.htm", "4.png", "", "", "{F9C8DB67-96CF-4b78-B135-1C77DDE07EE2}", "Package");
+tocTab[tocTab.length] = new Array("0.5.7", "1", "Resource Booking", "EARoot/EA5/EA7/EA156.htm", "4.png", "", "", "{292E6735-882C-4fdc-9B75-F0E4DFF68442}", "Package");
+tocTab[tocTab.length] = new Array("0.5.8", "1", "Users Management", "EARoot/EA5/EA8/EA186.htm", "4.png", "", "", "{7641EB09-520B-4300-85E9-DF5A50259F1A}", "Package");
+tocTab[tocTab.length] = new Array("0.5.9", "1", "Utilities", "EARoot/EA5/EA9/EA192.htm", "4.png", "", "", "{3B2D9FB8-C685-490f-A457-DB7D4892B2D2}", "Package");

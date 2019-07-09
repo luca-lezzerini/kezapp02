@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.6.2:1", "", "Main Use Cases", "EARoot/EA6/EA2/EA216.htm", "180.png", "125", "0", "", "Use Case diagram0","{D79FCF2E-AEA4-4c34-9491-30D3E1DB7AFB}");
+tocTab[tocTab.length] = new Array("0.6.2:2", "", "Book Resource", "EARoot/EA6/EA2/EA219.htm", "7.png", "E819", "0", "", "UseCase0","{8FAAE798-F291-404e-9560-A0A6E3809E43}");
+tocTab[tocTab.length] = new Array("0.6.2:3", "", "Change Reservation", "EARoot/EA6/EA2/EA220.htm", "7.png", "E816", "0", "", "UseCase0","{29A29872-ADED-4b30-8256-DF77A78C35C7}");
+tocTab[tocTab.length] = new Array("0.6.2:4", "", "Login", "EARoot/EA6/EA2/EA221.htm", "7.png", "E808", "0", "", "UseCase0","{C49F666F-5682-4cea-8E5D-D6698437AC1F}");
+tocTab[tocTab.length] = new Array("0.6.2:5", "", "Manage Resource Categories", "EARoot/EA6/EA2/EA222.htm", "7.png", "E818", "0", "", "UseCase0","{BB47CE83-D51E-4893-AD9A-2A013A5C111B}");
+tocTab[tocTab.length] = new Array("0.6.2:6", "", "Manage Shared Resources", "EARoot/EA6/EA2/EA223.htm", "7.png", "E814", "0", "", "UseCase0","{54E7E533-FE74-4a38-9C20-99EE937A632B}");
+tocTab[tocTab.length] = new Array("0.6.2:7", "", "Manage Users", "EARoot/EA6/EA2/EA224.htm", "7.png", "E815", "0", "", "UseCase0","{C3BAC553-4BD8-4ddd-8C1B-577538CDE592}");
+tocTab[tocTab.length] = new Array("0.6.2:8", "", "Private Resource Status", "EARoot/EA6/EA2/EA225.htm", "7.png", "E812", "0", "", "UseCase0","{0F2A5CA9-2A27-4de6-A42F-A403F949DB42}");
+tocTab[tocTab.length] = new Array("0.6.2:9", "", "Public Resource Status", "EARoot/EA6/EA2/EA226.htm", "7.png", "E811", "0", "", "UseCase0","{936C0595-1884-455c-ABEB-C8FC970453B4}");
+tocTab[tocTab.length] = new Array("0.6.2:10", "", "Queue Resource", "EARoot/EA6/EA2/EA227.htm", "7.png", "E813", "0", "", "UseCase0","{577A91C0-D0C0-4610-95A4-52843B9EC618}");
+tocTab[tocTab.length] = new Array("0.6.2:11", "", "Release Resource", "EARoot/EA6/EA2/EA228.htm", "7.png", "E817", "0", "", "UseCase0","{9C8280DF-BA27-4f2e-9854-EB351D818781}");
+tocTab[tocTab.length] = new Array("0.6.2:12", "", "Remove Reservation", "EARoot/EA6/EA2/EA229.htm", "7.png", "E820", "0", "", "UseCase0","{C2F96B0F-4BF5-4ca2-A073-AF1D88451912}");
+tocTab[tocTab.length] = new Array("0.6.2:13", "", "Search Resource", "EARoot/EA6/EA2/EA230.htm", "7.png", "E810", "0", "", "UseCase0","{C15D16B1-CE0E-4f0b-814E-52353EBDF41C}");
+tocTab[tocTab.length] = new Array("0.6.2:14", "", "Take Resource", "EARoot/EA6/EA2/EA231.htm", "7.png", "E809", "0", "", "UseCase0","{357DB889-1863-4fe9-BA7C-BC2F8ADE0F5C}");

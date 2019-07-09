@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.8.4.2.1", "1", "Navigation Map", "EARoot/EA8/EA4/EA2/EA1/EA692.htm", "4.png", "", "", "{53DB09C9-4F3C-44d7-8F1E-0561C4C1A256}", "Package");
+tocTab[tocTab.length] = new Array("0.8.4.2.2", "", "NC Dashboard", "EARoot/EA8/EA4/EA2/EA2/EA705.htm", "4.png", "", "", "{AD6770F8-832F-4ee7-9DDD-261BDA1DBFD4}", "Package");
+tocTab[tocTab.length] = new Array("0.8.4.2.3", "1", "NC Selected", "EARoot/EA8/EA4/EA2/EA3/EA708.htm", "4.png", "", "", "{91602F6B-9EF5-4ec9-ADAC-EE59C0846AAD}", "Package");
+tocTab[tocTab.length] = new Array("0.8.4.2.4", "1", "Create New Non Compliance", "EARoot/EA8/EA4/EA2/EA4/EA750.htm", "4.png", "", "", "{87A12CD4-49A2-41df-ACEC-0580F3EB115C}", "Package");
+tocTab[tocTab.length] = new Array("0.8.4.2.5", "1", "NC Management Home", "EARoot/EA8/EA4/EA2/EA5/EA758.htm", "4.png", "", "", "{69BACCD7-93B2-4e14-AF1D-7BFFDFCC98BE}", "Package");

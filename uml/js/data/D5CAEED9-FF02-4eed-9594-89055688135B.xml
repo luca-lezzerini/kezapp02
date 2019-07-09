@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.6.12:1", "", "Incident Management", "EARoot/EA6/EA12/EA327.htm", "180.png", "79", "0", "", "Use Case diagram0","{1A5E418C-D40A-4292-9F75-2540094D212E}");
+tocTab[tocTab.length] = new Array("0.6.12:2", "", "Change Assignee", "EARoot/EA6/EA12/EA330.htm", "7.png", "E468", "0", "", "UseCase0","{2CD6015D-CDEF-45ab-9C97-DF5869BABAA7}");
+tocTab[tocTab.length] = new Array("0.6.12:3", "", "Create New Incident", "EARoot/EA6/EA12/EA331.htm", "7.png", "E469", "0", "", "UseCase0","{7AC1AF99-23B0-4025-9704-26A849338EBD}");
+tocTab[tocTab.length] = new Array("0.6.12:4", "", "Delete Incident", "EARoot/EA6/EA12/EA332.htm", "7.png", "E466", "0", "", "UseCase0","{1784E8D3-FE3C-45f0-AE60-D8430AE5B2D8}");
+tocTab[tocTab.length] = new Array("0.6.12:5", "", "Display Incident", "EARoot/EA6/EA12/EA333.htm", "7.png", "E472", "0", "", "UseCase0","{4A96E93D-A035-4704-8CF7-D911DA1A539B}");
+tocTab[tocTab.length] = new Array("0.6.12:6", "", "Edit Incident", "EARoot/EA6/EA12/EA334.htm", "7.png", "E473", "0", "", "UseCase0","{A792F4AB-52CC-4216-B70C-4EC069CD0F24}");
+tocTab[tocTab.length] = new Array("0.6.12:7", "", "Filter Incident", "EARoot/EA6/EA12/EA335.htm", "7.png", "E470", "0", "", "UseCase0","{45721A0F-DC63-401d-B017-2F455E6FA865}");
+tocTab[tocTab.length] = new Array("0.6.12:8", "", "Incident Management", "EARoot/EA6/EA12/EA336.htm", "7.png", "E467", "0", "", "UseCase0","{0541E674-0019-4c35-802C-A5FB96DDC3A0}");
+tocTab[tocTab.length] = new Array("0.6.12:9", "", "Merge incident", "EARoot/EA6/EA12/EA337.htm", "7.png", "E471", "0", "", "UseCase0","{DE415FFD-D335-4f0e-A0D0-70C1DB15ECDF}");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.7.2:1", "", "Registries", "EARoot/EA6/EA7/EA2/EA302.htm", "180.png", "94", "0", "", "Use Case diagram0","{D85C6E6D-3171-4764-9CD9-832922A11544}");
+tocTab[tocTab.length] = new Array("0.6.7.2:2", "", "Non Compliance Status CRUD", "EARoot/EA6/EA7/EA2/EA305.htm", "7.png", "E562", "0", "", "UseCase0","{08A7C3BB-83F5-49d4-9124-D6258E102CE1}");
+tocTab[tocTab.length] = new Array("0.6.7.2:3", "", "Non Compliance Type CRUD", "EARoot/EA6/EA7/EA2/EA306.htm", "7.png", "E574", "0", "", "UseCase0","{CC091673-107D-4c50-B14E-F7DB76C2CF3D}");

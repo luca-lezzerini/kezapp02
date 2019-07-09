@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.8.2.2.1:1", "", "Data Tab", "EARoot/EA8/EA2/EA2/EA1/EA503.htm", "188.png", "138", "0", "", "Custom diagram0","{9D0183F6-7950-4b0a-8D49-6366F265AF94}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:2", "", "«WireframeButton» ...", "EARoot/EA8/EA2/EA2/EA1/EA507.htm", "16.png", "E951", "0", "", "GUIElement0","{A638569D-7AA1-40f1-A1A6-F50612598188}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:3", "", "«WireframeButton» ...", "EARoot/EA8/EA2/EA2/EA1/EA508.htm", "16.png", "E945", "0", "", "GUIElement0","{3ED2B4EA-BBC9-40ff-9245-068D5291EF07}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:4", "", "«WireframeButton» ...", "EARoot/EA8/EA2/EA2/EA1/EA509.htm", "16.png", "E954", "0", "", "GUIElement0","{EB454930-8DC0-4718-9ED7-587D659B45A4}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:5", "", "«WireframeButton» ...", "EARoot/EA8/EA2/EA2/EA1/EA510.htm", "16.png", "E948", "0", "", "GUIElement0","{208C83AB-DBAE-4023-AC4A-C53A11DED6D9}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:6", "", "«WireframeButton» ...", "EARoot/EA8/EA2/EA2/EA1/EA511.htm", "16.png", "E957", "0", "", "GUIElement0","{7C1CEC1F-991D-412e-AB84-53D37CC90846}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:7", "", "«WireframeLabel» auth 1, auth 2, auth 3", "EARoot/EA8/EA2/EA2/EA1/EA512.htm", "16.png", "E953", "0", "", "GUIElement0","{E4A10FBF-0C90-41fa-9125-D978744CDC9D}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:8", "", "«WireframeLabel» category1, category2, category 3", "EARoot/EA8/EA2/EA2/EA1/EA513.htm", "16.png", "E947", "0", "", "GUIElement0","{134E3D19-8CBB-4b5d-85A9-41E42B808BBD}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:9", "", "«WireframeLabel» category1, category2, category 3", "EARoot/EA8/EA2/EA2/EA1/EA514.htm", "16.png", "E944", "0", "", "GUIElement0","{B7B10929-336D-4ee1-B693-9851FCB4F8D8}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:10", "", "«WireframeLabel» Data categories", "EARoot/EA8/EA2/EA2/EA1/EA515.htm", "16.png", "E946", "0", "", "GUIElement0","{DAB20E46-01E4-4674-AA28-8244A200D7CB}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:11", "", "«WireframeLabel» Data sources", "EARoot/EA8/EA2/EA2/EA1/EA516.htm", "16.png", "E955", "0", "", "GUIElement0","{ECA813B9-E693-4e73-B046-F10453E5FB50}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:12", "", "«WireframeLabel» reason 1, reason 2, reason 3", "EARoot/EA8/EA2/EA2/EA1/EA517.htm", "16.png", "E950", "0", "", "GUIElement0","{A37CAEBA-580F-470d-829D-0504F38CAD77}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:13", "", "«WireframeLabel» Reasons for processing", "EARoot/EA8/EA2/EA2/EA1/EA518.htm", "16.png", "E949", "0", "", "GUIElement0","{1C8262BD-22C7-49a6-915D-948FEFE95039}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:14", "", "«WireframeLabel» source 1, source 2, source 3", "EARoot/EA8/EA2/EA2/EA1/EA519.htm", "16.png", "E956", "0", "", "GUIElement0","{2764B6B1-7BDD-4fda-9F88-2E5A313F58CD}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:15", "", "«WireframeLabel» Subject authorization", "EARoot/EA8/EA2/EA2/EA1/EA520.htm", "16.png", "E952", "0", "", "GUIElement0","{55FCA30C-EDEE-447e-A89D-0F9CB67995D0}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:16", "", "«WireframeLabel» Subject categories", "EARoot/EA8/EA2/EA2/EA1/EA521.htm", "16.png", "E941", "0", "", "GUIElement0","{FCA12360-D7D6-473c-BCAA-8F9CD5411CF4}");
+tocTab[tocTab.length] = new Array("0.8.2.2.1:17", "", "«WireframeTabControl» TabControl", "EARoot/EA8/EA2/EA2/EA1/EA523.htm", "16.png", "E940", "0", "", "GUIElement0","{A90917E6-A830-459d-8EB8-574B88363F4C}");

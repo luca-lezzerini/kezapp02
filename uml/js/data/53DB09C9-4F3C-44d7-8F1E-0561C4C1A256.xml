@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.8.4.2.1:1", "", "Navigation Map", "EARoot/EA8/EA4/EA2/EA1/EA690.htm", "183.png", "97", "0", "", "Statechart diagram0","{7BF3BCC3-7A67-4c85-9CD6-77500042B27E}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:2", "", "add", "EARoot/EA8/EA4/EA2/EA1/EA693.htm", "198.png", "E597", "0", "", "Trigger0","{B49BC62D-6D64-4865-AE26-46502E782E1D}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:3", "", "add cancelled", "EARoot/EA8/EA4/EA2/EA1/EA694.htm", "198.png", "E599", "0", "", "Trigger0","{BDF275F7-B9DD-43b3-8438-FF9A7502DDE3}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:4", "", "add confirmed", "EARoot/EA8/EA4/EA2/EA1/EA695.htm", "198.png", "E598", "0", "", "Trigger0","{FE3E6913-F6FD-4d50-BF14-27DF082DD8FB}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:5", "", "Create New Non Compliance", "EARoot/EA8/EA4/EA2/EA1/EA696.htm", "20.png", "E596", "0", "", "State0","{2E46D564-D4E3-46c5-ACC7-5D83F0750300}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:6", "", "dashboard", "EARoot/EA8/EA4/EA2/EA1/EA697.htm", "198.png", "E617", "0", "", "Trigger0","{772914A2-E271-4919-8EBB-1DC226F74700}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:7", "", "go home", "EARoot/EA8/EA4/EA2/EA1/EA698.htm", "198.png", "E618", "0", "", "Trigger0","{9E465491-30B5-414f-A42E-545B3EC38E8B}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:8", "", "go NC mgmt home", "EARoot/EA8/EA4/EA2/EA1/EA699.htm", "198.png", "E600", "0", "", "Trigger0","{6A3BE885-89C4-4bab-BBE5-74BCD6074D1D}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:9", "", "Initial", "EARoot/EA8/EA4/EA2/EA1/EA700.htm", "68.png", "E592", "0", "", "StateNode0","{07BC8150-B36F-4dc5-94A8-DB211BA1457D}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:10", "", "NC Dashboard", "EARoot/EA8/EA4/EA2/EA1/EA701.htm", "20.png", "E616", "0", "", "State0","{4A38045E-1AE1-4e06-8CA7-915EE4C30BFA}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:11", "", "NC Management Home", "EARoot/EA8/EA4/EA2/EA1/EA702.htm", "20.png", "E593", "0", "", "State0","{389BD6ED-FE5D-458d-9562-611227531D9B}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:12", "", "NC Selected", "EARoot/EA8/EA4/EA2/EA1/EA703.htm", "20.png", "E594", "0", "", "State0","{8BCCC4B8-1960-4a35-9249-732C1765F5BD}");
+tocTab[tocTab.length] = new Array("0.8.4.2.1:13", "", "select one NC", "EARoot/EA8/EA4/EA2/EA1/EA704.htm", "198.png", "E595", "0", "", "Trigger0","{531B2120-A8FF-439f-8382-F599C5CD55A4}");

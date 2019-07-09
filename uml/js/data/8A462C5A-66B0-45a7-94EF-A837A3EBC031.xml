@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.8.8.2:1", "", "Document Data", "EARoot/EA8/EA8/EA2/EA873.htm", "188.png", "86", "0", "", "Custom diagram0","{F3E01DF9-7F72-496c-94BA-9EFFA5F97A7C}");
+tocTab[tocTab.length] = new Array("0.8.8.2:2", "", "«WireframeClientArea» ClientArea", "EARoot/EA8/EA8/EA2/EA879.htm", "16.png", "E512", "0", "", "GUIElement0","{2324028F-8165-4ad9-8386-DEDB08D94C82}");
+tocTab[tocTab.length] = new Array("0.8.8.2:3", "", "«WireframeTabControl» TabControl", "EARoot/EA8/EA8/EA2/EA880.htm", "16.png", "E520", "0", "", "GUIElement0","{E92E69E5-2F09-4613-9DAE-024193384F9E}");
+tocTab[tocTab.length] = new Array("0.8.8.2:4", "", "«WireframeTable» Table", "EARoot/EA8/EA8/EA2/EA881.htm", "16.png", "E522", "0", "", "GUIElement0","{F879171D-9993-428a-BE45-40A4A7398B97}");
+tocTab[tocTab.length] = new Array("0.8.8.2:5", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA8/EA2/EA882.htm", "11.png", "E518", "0", "", "Screen0","{49C16473-5071-452d-95CE-173BF68BAF2A}");
+tocTab[tocTab.length] = new Array("0.8.8.2:6", "", "«WireframeButton» Cancel", "EARoot/EA8/EA8/EA2/EA883.htm", "16.png", "E525", "E512", "", "GUIElement0","{3AD55C01-E189-414f-8614-E2FCBABD4943}");
+tocTab[tocTab.length] = new Array("0.8.8.2:7", "", "«WireframeButton» Confirm", "EARoot/EA8/EA8/EA2/EA884.htm", "16.png", "E515", "E512", "", "GUIElement0","{EDF20A9B-9C7C-429b-AE2B-AF31561EEC61}");
+tocTab[tocTab.length] = new Array("0.8.8.2:8", "", "«WireframeButton» Check Out", "EARoot/EA8/EA8/EA2/EA885.htm", "16.png", "E524", "E518", "", "GUIElement0","{04886503-8880-4532-BC32-FEF3BAE2AE49}");
+tocTab[tocTab.length] = new Array("0.8.8.2:9", "", "«WireframeLabel» Checked In / Out", "EARoot/EA8/EA8/EA2/EA886.htm", "16.png", "E517", "E518", "", "GUIElement0","{615DE96F-A450-4ee7-89C4-5AD8716BE79C}");
+tocTab[tocTab.length] = new Array("0.8.8.2:10", "", "«WireframeTextField» Code", "EARoot/EA8/EA8/EA2/EA887.htm", "16.png", "E521", "E518", "", "GUIElement0","{3467BDDF-114E-40a8-9CCE-BCD901553CFD}");
+tocTab[tocTab.length] = new Array("0.8.8.2:11", "", "«WireframeCombobox» Combobox", "EARoot/EA8/EA8/EA2/EA888.htm", "16.png", "E516", "E518", "", "GUIElement0","{AAEEDA79-9FBC-4626-AFA8-179FA62DEC43}");
+tocTab[tocTab.length] = new Array("0.8.8.2:12", "", "«WireframeCombobox» Combobox", "EARoot/EA8/EA8/EA2/EA889.htm", "16.png", "E519", "E518", "", "GUIElement0","{3656F6BE-5B05-4972-BC7B-C85279CF5475}");
+tocTab[tocTab.length] = new Array("0.8.8.2:13", "", "«WireframeTextField» Description", "EARoot/EA8/EA8/EA2/EA890.htm", "16.png", "E523", "E518", "", "GUIElement0","{4616FBD7-71C1-49c5-AF5E-8946E9CEB01D}");
+tocTab[tocTab.length] = new Array("0.8.8.2:14", "", "«WireframeTextField» keywords", "EARoot/EA8/EA8/EA2/EA891.htm", "16.png", "E514", "E518", "", "GUIElement0","{613B8714-7CC3-420b-83A9-B058BFC65667}");
+tocTab[tocTab.length] = new Array("0.8.8.2:15", "", "«WireframeCheckbox» Obsolete", "EARoot/EA8/EA8/EA2/EA892.htm", "16.png", "E527", "E518", "", "GUIElement0","{66FEE101-C8A8-4550-B4E9-540045487590}");
+tocTab[tocTab.length] = new Array("0.8.8.2:16", "", "«WireframeTabControl» TabControl", "EARoot/EA8/EA8/EA2/EA893.htm", "16.png", "E513", "E518", "", "GUIElement0","{F4F7BB63-67F8-45a2-B1B6-30EEEE13D7BD}");
+tocTab[tocTab.length] = new Array("0.8.8.2:17", "", "«WireframeTextField» Title", "EARoot/EA8/EA8/EA2/EA894.htm", "16.png", "E526", "E518", "", "GUIElement0","{46420F2D-F233-4454-8C0D-ECF5E2658787}");

@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.6.3:1", "", "Documentation Mangement", "EARoot/EA6/EA3/EA232.htm", "180.png", "118", "0", "", "Use Case diagram0","{9AE51B9C-BBC7-4959-BDE8-C4273D3502D3}");
+tocTab[tocTab.length] = new Array("0.6.3:2", "", "Attach document", "EARoot/EA6/EA3/EA235.htm", "7.png", "E761", "0", "", "UseCase0","{DC51F7C0-386E-4e3c-83EE-6423940659B5}");
+tocTab[tocTab.length] = new Array("0.6.3:3", "", "Checkin Document", "EARoot/EA6/EA3/EA236.htm", "7.png", "E750", "0", "", "UseCase0","{A4EAE273-F913-4e5f-B1BF-3CC297A8F9CC}");
+tocTab[tocTab.length] = new Array("0.6.3:4", "", "Checkout Document", "EARoot/EA6/EA3/EA237.htm", "7.png", "E752", "0", "", "UseCase0","{EE6EF099-5B89-4ca5-BA6B-F73275515C3D}");
+tocTab[tocTab.length] = new Array("0.6.3:5", "", "Create New Document", "EARoot/EA6/EA3/EA238.htm", "7.png", "E755", "0", "", "UseCase0","{0DC2734C-8F16-4a79-A108-F5F0B20D51F5}");
+tocTab[tocTab.length] = new Array("0.6.3:6", "", "Delete Document", "EARoot/EA6/EA3/EA239.htm", "7.png", "E751", "0", "", "UseCase0","{27B91084-13D2-49a0-AA8F-7B657AB787D8}");
+tocTab[tocTab.length] = new Array("0.6.3:7", "", "Discard Version", "EARoot/EA6/EA3/EA240.htm", "7.png", "E754", "0", "", "UseCase0","{6A2C9912-6842-4440-BE0C-C63A38AA8C0E}");
+tocTab[tocTab.length] = new Array("0.6.3:8", "", "Display Document", "EARoot/EA6/EA3/EA241.htm", "7.png", "E757", "0", "", "UseCase0","{0631B4A3-8BC9-495e-91E3-393B5B90B712}");
+tocTab[tocTab.length] = new Array("0.6.3:9", "", "Documentation Management", "EARoot/EA6/EA3/EA242.htm", "7.png", "E760", "0", "", "UseCase0","{36B4C568-C842-49c9-BFA3-B400931AAF95}");
+tocTab[tocTab.length] = new Array("0.6.3:10", "", "Edit Document", "EARoot/EA6/EA3/EA243.htm", "7.png", "E756", "0", "", "UseCase0","{E1AAE4E2-71CC-4cea-93A6-068179438A4E}");
+tocTab[tocTab.length] = new Array("0.6.3:11", "", "Filter Documents", "EARoot/EA6/EA3/EA244.htm", "7.png", "E759", "0", "", "UseCase0","{5160C80F-2F19-4e54-8519-BA7CEAF26C0D}");
+tocTab[tocTab.length] = new Array("0.6.3:12", "", "Set Current Version", "EARoot/EA6/EA3/EA245.htm", "7.png", "E758", "0", "", "UseCase0","{A3649A71-B242-4ec6-B7D5-0912B6E85CAE}");
+tocTab[tocTab.length] = new Array("0.6.3:13", "", "Start Approvation Process", "EARoot/EA6/EA3/EA246.htm", "7.png", "E753", "0", "", "UseCase0","{8147F513-2DA2-49ec-A9FE-39654C8F2253}");

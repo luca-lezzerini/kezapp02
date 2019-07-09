@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.8.2.3:1", "", "Manage Single Registry Page", "EARoot/EA8/EA2/EA3/EA582.htm", "188.png", "135", "0", "", "Custom diagram0","{3D200042-1A6B-4beb-8FBC-88E89B790888}");
+tocTab[tocTab.length] = new Array("0.8.2.3:2", "", "«WireframeButton» Add New Processing", "EARoot/EA8/EA2/EA3/EA589.htm", "16.png", "E915", "0", "", "GUIElement0","{C5DCF609-1D05-4561-9920-3FA35CBEFF7C}");
+tocTab[tocTab.length] = new Array("0.8.2.3:3", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA2/EA3/EA591.htm", "11.png", "E905", "0", "", "Screen0","{4F600075-E2E1-4bc8-B2C1-219BFB07575A}");
+tocTab[tocTab.length] = new Array("0.8.2.3:4", "", "«WireframeLabel» Created on: 01/01/2019 - Last updated: 05/05/2019", "EARoot/EA8/EA2/EA3/EA592.htm", "16.png", "E913", "E905", "", "GUIElement0","{3775F103-8BFC-4151-A2FE-444E0748EF4F}");
+tocTab[tocTab.length] = new Array("0.8.2.3:5", "", "«WireframeLabel» Data Processing registry: registry number one", "EARoot/EA8/EA2/EA3/EA593.htm", "16.png", "E912", "E905", "", "GUIElement0","{2390AE91-0911-42d5-B0E3-7F14A676A0B7}");
+tocTab[tocTab.length] = new Array("0.8.2.3:6", "", "«WireframeButton» Go Back", "EARoot/EA8/EA2/EA3/EA594.htm", "16.png", "E923", "E905", "", "GUIElement0","{B5026C9B-0CB9-4f5b-927A-C83997C74F75}");
+tocTab[tocTab.length] = new Array("0.8.2.3:7", "", "«WireframeButton» Search", "EARoot/EA8/EA2/EA3/EA595.htm", "16.png", "E907", "E905", "", "GUIElement0","{B2E12F79-12E6-4b17-A019-38F80E3B0DE6}");
+tocTab[tocTab.length] = new Array("0.8.2.3:8", "", "«WireframeTextField» searchCriteria", "EARoot/EA8/EA2/EA3/EA596.htm", "16.png", "E906", "E905", "", "GUIElement0","{0F2DF951-CA6E-40fd-9FC5-F1ECE85947E2}");
+tocTab[tocTab.length] = new Array("0.8.2.3:9", "", "«WireframeTable» Table", "EARoot/EA8/EA2/EA3/EA597.htm", "16.png", "E908", "E905", "", "GUIElement0","{407EE35C-A138-4479-B04F-73B882F30D05}");

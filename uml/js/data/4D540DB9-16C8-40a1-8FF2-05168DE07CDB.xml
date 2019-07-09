@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.8.11.2:1", "", "Dashboard", "EARoot/EA8/EA11/EA2/EA954.htm", "188.png", "74", "0", "", "Custom diagram0","{6F7BDF7E-79C4-41a5-91BA-DB33025FAC81}");
+tocTab[tocTab.length] = new Array("0.8.11.2:2", "", "«WireframeWebsite» Webpage1", "EARoot/EA8/EA11/EA2/EA959.htm", "11.png", "E407", "0", "", "Screen0","{DF6405BF-E2D6-4030-B622-909107373C40}");
+tocTab[tocTab.length] = new Array("0.8.11.2:3", "", "«WireframeTextField» 30", "EARoot/EA8/EA11/EA2/EA960.htm", "16.png", "E410", "E407", "", "GUIElement0","{370817EE-E6EF-44a2-9715-A207500D5035}");
+tocTab[tocTab.length] = new Array("0.8.11.2:4", "", "«WireframeTextField» 60", "EARoot/EA8/EA11/EA2/EA961.htm", "16.png", "E412", "E407", "", "GUIElement0","{90402A3B-2CB5-4188-B96C-DEB3291444EB}");
+tocTab[tocTab.length] = new Array("0.8.11.2:5", "", "«WireframeLabel» N. of expired dates  12", "EARoot/EA8/EA11/EA2/EA962.htm", "16.png", "E414", "E407", "", "GUIElement0","{42B3B50E-EA77-4d29-B03D-E23FA8125137}");
+tocTab[tocTab.length] = new Array("0.8.11.2:6", "", "«WireframeLabel» N. of near to expire dates  12", "EARoot/EA8/EA11/EA2/EA963.htm", "16.png", "E417", "E407", "", "GUIElement0","{C2418363-8282-4c43-AF47-52459255F291}");
+tocTab[tocTab.length] = new Array("0.8.11.2:7", "", "«WireframeLabel» N. of warning dates  12", "EARoot/EA8/EA11/EA2/EA964.htm", "16.png", "E416", "E407", "", "GUIElement0","{D16E61B9-9C1E-4bb2-8AB2-2ECDCBAC74F8}");
+tocTab[tocTab.length] = new Array("0.8.11.2:8", "", "«WireframeLabel» Near days", "EARoot/EA8/EA11/EA2/EA965.htm", "16.png", "E411", "E407", "", "GUIElement0","{1D62081E-25A4-4575-BE85-4214B8C916C4}");
+tocTab[tocTab.length] = new Array("0.8.11.2:9", "", "«WireframeLabel» Oldest expired date  12/10/2018", "EARoot/EA8/EA11/EA2/EA966.htm", "16.png", "E415", "E407", "", "GUIElement0","{30969048-7BCA-4663-92B5-984A0B3430FF}");
+tocTab[tocTab.length] = new Array("0.8.11.2:10", "", "«WireframeTable» Table", "EARoot/EA8/EA11/EA2/EA967.htm", "16.png", "E419", "E407", "", "GUIElement0","{64C02D0D-A0FE-4e5a-A3DB-2B68CF4334C9}");
+tocTab[tocTab.length] = new Array("0.8.11.2:11", "", "«WireframeLabel» Total number of not expired dates 46", "EARoot/EA8/EA11/EA2/EA968.htm", "16.png", "E418", "E407", "", "GUIElement0","{5C92751E-FC67-41e4-8385-E3FEE4763C61}");
+tocTab[tocTab.length] = new Array("0.8.11.2:12", "", "«WireframeLabel» Warning days", "EARoot/EA8/EA11/EA2/EA969.htm", "16.png", "E409", "E407", "", "GUIElement0","{EF552BFC-B30E-45cf-8A4D-2E5BEF40C5E5}");

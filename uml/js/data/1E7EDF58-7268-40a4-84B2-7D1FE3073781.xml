@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.8.3.1", "1", "Top menu bar", "EARoot/EA8/EA3/EA1/EA621.htm", "4.png", "", "", "{0A605604-916D-4ede-AE09-EEFC8A4B8323}", "Package");
+tocTab[tocTab.length] = new Array("0.8.3.2", "1", "General Menu Item", "EARoot/EA8/EA3/EA2/EA632.htm", "4.png", "", "", "{0E33FDE2-E460-4507-8DE6-D2A5EC8C0299}", "Package");
+tocTab[tocTab.length] = new Array("0.8.3.3", "1", "Schedule Menu Item", "EARoot/EA8/EA3/EA3/EA637.htm", "4.png", "", "", "{7DD91178-AD2D-484d-99A3-2947479DB2E3}", "Package");
+tocTab[tocTab.length] = new Array("0.8.3.4", "1", "Non Compliances Menu Item", "EARoot/EA8/EA3/EA4/EA642.htm", "4.png", "", "", "{82AFFD86-F050-4e83-966F-2D71C688DE27}", "Package");
+tocTab[tocTab.length] = new Array("0.8.3.5", "1", "Anomalies Menu Item", "EARoot/EA8/EA3/EA5/EA646.htm", "4.png", "", "", "{D31E53AE-CC85-4318-90CA-DFF42C5444DF}", "Package");
+tocTab[tocTab.length] = new Array("0.8.3.6", "1", "Maintenance Menu Item", "EARoot/EA8/EA3/EA6/EA649.htm", "4.png", "", "", "{07AC85AA-BB9D-4245-8D2D-F5737D8CEFA1}", "Package");
+tocTab[tocTab.length] = new Array("0.8.3.7", "1", "Documents Menu Item", "EARoot/EA8/EA3/EA7/EA652.htm", "4.png", "", "", "{5ED948B5-E0EE-4acc-A85D-EBDD92380123}", "Package");
+tocTab[tocTab.length] = new Array("0.8.3.8", "1", "Administration Menu Item", "EARoot/EA8/EA3/EA8/EA655.htm", "4.png", "", "", "{3AE74A02-AC0B-4f4c-8BB9-3AE56F25755A}", "Package");

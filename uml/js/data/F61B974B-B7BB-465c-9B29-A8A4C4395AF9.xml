@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.6.7.1", "1", "Non compliance management", "EARoot/EA6/EA7/EA1/EA286.htm", "4.png", "", "", "{6A36408A-1B19-4cf5-869B-6F57E4B58414}", "Package");
+tocTab[tocTab.length] = new Array("0.6.7.2", "1", "Registries", "EARoot/EA6/EA7/EA2/EA304.htm", "4.png", "", "", "{29099EE8-92B1-4957-9B69-0195B7C33C5D}", "Package");

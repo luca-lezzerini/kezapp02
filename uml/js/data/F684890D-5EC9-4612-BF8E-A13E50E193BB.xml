@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.11.2:1", "", "Log user activity", "EARoot/EA11/EA2/EA1017.htm", "175.png", "107", "0", "", "Logical diagram0","{7DCDB04B-9D1B-4177-A2F2-4CA697AABD5B}");
+tocTab[tocTab.length] = new Array("0.11.2:2", "", "«interface» LogUserActivityService", "EARoot/EA11/EA2/EA1020.htm", "5.png", "E673", "0", "", "Class0","{3B9FCE60-BA5C-4034-9FD2-FF62EAB3A6B1}");

@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.8.11.1", "1", "Associate Asset to Expiration period 2", "EARoot/EA8/EA11/EA1/EA940.htm", "4.png", "", "", "{D5F69885-E5AA-4fd2-9F68-CD9ADF97CB1E}", "Package");
+tocTab[tocTab.length] = new Array("0.8.11.2", "1", "Dashboard", "EARoot/EA8/EA11/EA2/EA956.htm", "4.png", "", "", "{4D540DB9-16C8-40a1-8FF2-05168DE07CDB}", "Package");
+tocTab[tocTab.length] = new Array("0.8.11.3", "1", "Force Due Date", "EARoot/EA8/EA11/EA3/EA972.htm", "4.png", "", "", "{AD9C840B-C765-4a1f-9A93-B2E798B75CCF}", "Package");
+tocTab[tocTab.length] = new Array("0.8.11.4", "1", "List Expiration Dates", "EARoot/EA8/EA11/EA4/EA988.htm", "4.png", "", "", "{A260EB15-76CE-4d65-8DDA-A2B66ECD7744}", "Package");

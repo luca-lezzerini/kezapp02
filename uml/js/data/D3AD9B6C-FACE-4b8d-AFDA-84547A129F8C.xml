@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.5.7.2:1", "", "Calendars", "EARoot/EA5/EA7/EA2/EA170.htm", "175.png", "130", "0", "", "Logical diagram0","{6C7E56B9-54AF-4225-8D92-6B6C76378E2B}");
+tocTab[tocTab.length] = new Array("0.5.7.2:2", "", "CalendarChange", "EARoot/EA5/EA7/EA2/EA173.htm", "5.png", "E849", "0", "", "Class0","{4B8D0C80-4FBF-4f8d-B758-A6D490408DEC}");
+tocTab[tocTab.length] = new Array("0.5.7.2:3", "", "CalendarChangeType", "EARoot/EA5/EA7/EA2/EA174.htm", "5.png", "E850", "0", "", "Class0","{626E326E-14D7-4c7f-A07B-5CA7CDB154B8}");
+tocTab[tocTab.length] = new Array("0.5.7.2:4", "", "CalendarDayOfWeek", "EARoot/EA5/EA7/EA2/EA175.htm", "5.png", "E851", "0", "", "Class0","{7474FB87-3660-4730-BE7A-021BCDDDCD1C}");
+tocTab[tocTab.length] = new Array("0.5.7.2:5", "", "ResourceAvailabilityCache", "EARoot/EA5/EA7/EA2/EA176.htm", "5.png", "E852", "0", "", "Class0","{B63F230A-27B1-4210-834F-9646B16C4EFB}");
+tocTab[tocTab.length] = new Array("0.5.7.2:6", "", "ResourceAvailabilityChange", "EARoot/EA5/EA7/EA2/EA177.htm", "5.png", "E848", "0", "", "Class0","{8CBC685C-6EED-4fca-9A18-7257D889833E}");
+tocTab[tocTab.length] = new Array("0.5.7.2:7", "", "ResourceCalendar", "EARoot/EA5/EA7/EA2/EA178.htm", "5.png", "E847", "0", "", "Class0","{A4F8C712-07AF-49bb-81D6-1F6154E8BDC1}");
