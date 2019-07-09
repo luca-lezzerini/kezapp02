@@ -19,6 +19,6 @@ public class KeZappController02 {
     @RequestMapping(value = {"/registrazione"})
     @ResponseBody
     RegistrazioneDto02 registrazione(@RequestBody RichiediRegistrazioneDto02 dto){
-        
+        return ks.registrazione(dto);
     }
 }

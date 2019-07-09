@@ -17,7 +17,7 @@ public class KeZappServiceImpl02 implements KeZappService02 {
     @Override
     public RegistrazioneDto02 registrazione(RichiediRegistrazioneDto02 dto) {
 // cerco nikname
-        Chat02 chat = cr.findByNikname(dto.getNikname());
+        Chat02 chat = cr.findByNikname(dto.getNickname());
 
         RegistrazioneDto02 dx = new RegistrazioneDto02();
 //se esiste torno sessione null
@@ -25,7 +25,7 @@ public class KeZappServiceImpl02 implements KeZappService02 {
             dx.setSessione(null);
         } else {
             Chat02 cx = new Chat02();
-            cx.setNikname(dto.getNikname());
+            cx.setNikname(dto.getNickname());
             cx = cr.save(cx);
             String sessione = String.valueOf(cx.getId());
             cx.setSessione(sessione);
