@@ -1,13 +1,14 @@
 package it.digidgroup.kezapp02.service.impl;
 
-import it.digidgroup.kezapp02.dto.RegistrazioneDto0;
 import it.digidgroup.kezapp02.dto.RegistrazioneDto01;
 import it.digidgroup.kezapp02.dto.RichiediRegistrazioneDto01;
 import it.digidgroup.kezapp02.model.Chat01;
 import it.digidgroup.kezapp02.repository.ChatRepository01;
 import it.digidgroup.kezapp02.service.KeZappService01;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
+@Service
 public class KeZappServiceImpl01 implements KeZappService01 {
 
     @Autowired
