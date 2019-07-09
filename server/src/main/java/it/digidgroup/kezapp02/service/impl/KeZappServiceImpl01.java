@@ -21,8 +21,6 @@ public class KeZappServiceImpl01 implements KeZappService01 {
         RegistrazioneDto01 dx = new RegistrazioneDto01();
         if (chat != null) {
             dx.setSessione(null);
-           
-
         } //se esiste ritorno null altrimenti lo creo generando id di sessione
         else {
             Chat01 cx = new Chat01();
@@ -32,7 +30,7 @@ public class KeZappServiceImpl01 implements KeZappService01 {
             String sessione = String.valueOf(cx.getId());
             cx.setSessione(sessione);
             cx = cr.save(cx);
-
+            dx.setSessione(sessione);
         }
        
         return dx;
