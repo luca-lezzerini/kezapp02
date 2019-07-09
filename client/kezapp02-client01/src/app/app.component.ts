@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { RegistrazioneDto } from './chat';
 
 @Component({
   selector: 'app-root',
@@ -11,8 +12,11 @@ export class AppComponent {
   nickName: string;
 
 
-  constructor(private http: HttpClient){}
-  registrazione(){
-let ox: Observa
+  constructor(private http: HttpClient) { }
+  registrazione() {
+    let ox: Observable<RegistrazioneDto> =
+      this.http
+        .post<RegistrazioneDto>("http://localhost:8080/registrazione01",
+        {nickName: this.nickName});
   }
 }
