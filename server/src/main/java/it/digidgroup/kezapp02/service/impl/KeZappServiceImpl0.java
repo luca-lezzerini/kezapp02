@@ -28,7 +28,7 @@ public class KeZappServiceImpl0 implements KeZappService0 {
         else {
             // salvo la nuova chat ...
             Chat0 cx = new Chat0();
-            cx.setNickname(dto.getNickName());
+            cx.setNickName(dto.getNickName());
             cx = cr.save(cx);
             String sessione = String.valueOf(cx.getId());
             cx.setSessione(sessione);
