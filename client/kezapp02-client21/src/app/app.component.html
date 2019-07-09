@@ -6,6 +6,7 @@
     <input type="text" placeholder="messaggio" [(ngModel)]="messaggio">
     <button (click)="inviaTutti()">Invia a tutti</button>
     <br>
+    Contatti 
     <table>
         <tr *ngFor="let c of contatti">
             <td>{{c.nickName}}</td>
