@@ -13,7 +13,7 @@ public class Chat3 {
     private Long id;
     
     @Column
-    private String nickname;
+    private String nickName;
     
     @Column
     private String sessione;
@@ -27,11 +27,11 @@ public class Chat3 {
     }
 
     public String getNickname() {
-        return nickname;
+        return nickName;
     }
 
     public void setNickname(String nickname) {
-        this.nickname = nickname;
+        this.nickName = nickname;
     }
 
     public String getSessione() {
