@@ -1,6 +1,8 @@
+
 package it.digidgroup.kezapp02.dto;
 
-public class InviaMessaggioDto3 {
+public class InviaMessaggioDto01 {
+
     private String messaggio;
     private String sessione;
     private String destinatario;
@@ -28,4 +30,5 @@ public class InviaMessaggioDto3 {
     public void setDestinatario(String destinatario) {
         this.destinatario = destinatario;
     }
+
 }

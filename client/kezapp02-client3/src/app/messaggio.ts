@@ -3,5 +3,4 @@ export class Messaggio{
     testo: string;
     aliasMittente: string;
     aliasDestinatario: string;
-
 }

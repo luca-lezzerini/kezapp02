@@ -1,5 +1,6 @@
 package it.digidgroup.kezapp02.controller;
 
+import it.digidgroup.kezapp02.dto.InviaMessaggioDto01;
 import it.digidgroup.kezapp02.dto.RegistrazioneDto01;
 import it.digidgroup.kezapp02.dto.RichiediRegistrazioneDto01;
 import it.digidgroup.kezapp02.service.KeZappService01;
@@ -22,5 +23,13 @@ public class KeZappController01 {
     RegistrazioneDto01 registrazione(
             @RequestBody RichiediRegistrazioneDto01 dto) {
         return ks.registrazione(dto);
+    }
+    
+    @RequestMapping(value = {"/inviaTutti01"})
+    @ResponseBody
+    RegistrazioneDto01 inviaTutti(
+            @RequestBody InviaMessaggioDto01 dto) {
+        System.out.println("prova");
+           return ks.inviaTutti(dto);
     }
 }
