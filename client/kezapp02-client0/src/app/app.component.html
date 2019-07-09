@@ -1,8 +1,23 @@
 <div *ngIf="sessione == null">
+    <h1>Client giusto</h1>
     <input type="text" [(ngModel)]="nickName">
     <button (click)="registrazione()">Registrazione</button>
 </div>
 <div *ngIf="sessione != null">
-    Io non devo essere visibile. 
-    Se mi vedi chiama telefono nero.
+    <input type="text" placeholder="messaggio"
+    [(ngModel)]="messaggio">
+    <button (click)="inviaTutti()">Invia a tutti</button>
+    <br>
+    Contatti
+    <br>
+    <table>
+        <tr *ngFor="let c of contatti">
+            <td>{{c.nickName}}</td>
+            <td>
+                <button (click)="inviaUno(c)">
+                    Invia
+                </button>
+            </td>
+        </tr>
+    </table>
 </div>
