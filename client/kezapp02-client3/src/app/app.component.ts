@@ -18,5 +18,6 @@ export class AppComponent {
     let ox: Observable<RegistrazioneDto> =
     this.http.post<RegistrazioneDto>
     ("http://localhost:8080/registrazione3",{nickName: this.nickName});
+    ox.subscribe( r => this.sessione = r.sessione);
   }
 }

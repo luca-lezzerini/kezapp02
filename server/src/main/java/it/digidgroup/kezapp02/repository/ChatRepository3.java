@@ -8,4 +8,6 @@ import org.springframework.stereotype.Repository;
 public interface ChatRepository3 extends JpaRepository<Chat3, Long>{
      
     Chat3 findByNickName(String nickName);
+    
+    Chat3 findBySessione(String sessione);
 }
