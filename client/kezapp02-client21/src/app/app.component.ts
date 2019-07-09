@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
+import { RegistrazioneDto } from './registrazione-dto';
 
 @Component({
   selector: 'app-root',
@@ -9,11 +10,13 @@ import { Observable } from 'rxjs';
 })
 export class AppComponent {
   sessione: string;
-  nickNmae: string;
+  nickName: string;
 
   constructor(private http: HttpClient){}
 
   registrazione(){
-    let ox:Observable<
+    let ox: Observable<RegistrazioneDto> =
+    this.http.post<RegistrazioneDto>("http://localhost:8080/registrazione21",{nickname: this.nickName})
+
   }
 }
