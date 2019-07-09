@@ -20,4 +20,18 @@
             </td>
         </tr>
     </table>
+    <br>
+    Messaggi ricevuti
+    <button (click)="aggiorna()">Aggiorna</button>
+    <br>
+    <table>
+        <tr *ngFor="let m of messaggi">
+            <td>
+                {{m.testo}}
+            </td>
+            <td>
+                {{m.aliasMittente}}
+            </td>
+        </tr>
+    </table>
 </div>
