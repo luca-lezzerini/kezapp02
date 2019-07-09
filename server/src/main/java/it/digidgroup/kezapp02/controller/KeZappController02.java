@@ -20,6 +20,7 @@ public class KeZappController02 {
     @RequestMapping(value = {"/registrazione02"})
     @ResponseBody
     RegistrazioneDto02 registrazione(@RequestBody RichiediRegistrazioneDto02 dto){
+        System.out.println("siamo in registrazione " + dto.getNickName());
         return ks.registrazione(dto);
     }
     

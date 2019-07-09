@@ -24,7 +24,7 @@ public class KeZappServiceImpl02 implements KeZappService02 {
     @Override
     public RegistrazioneDto02 registrazione(RichiediRegistrazioneDto02 dto) {
 // cerco nikname
-        Chat02 chat = cr.findByNikname(dto.getNikname());
+        Chat02 chat = cr.findByNickName(dto.getNickName());
 
         RegistrazioneDto02 dx = new RegistrazioneDto02();
 //se esiste torno sessione null
@@ -32,7 +32,7 @@ public class KeZappServiceImpl02 implements KeZappService02 {
             dx.setSessione(null);
         } else {
             Chat02 cx = new Chat02();
-            cx.setNikname(dto.getNikname());
+            cx.setNickName(dto.getNickName());
             cx = cr.save(cx);
             String sessione = String.valueOf(cx.getId());
             cx.setSessione(sessione);
@@ -52,13 +52,13 @@ public class KeZappServiceImpl02 implements KeZappService02 {
         // se chat esiste crea e salva messaggio
             Messaggio02 mess = new Messaggio02();
             mess.setAliasDestinatario(null);
-            mess.setAliasMittente(chat.getNikname());
+            mess.setAliasMittente(chat.getNickName());
             mess.setTesto(dto.getMessaggio());
             mess = mr.save(mess);
         // recupera tutti i contatti
             List<Chat02> listaChat = cr.findAll();
         // recupera tutti i messaggi (miei o pubblici)
-            List<Messaggio02> listaMess = mr.trovaMessaggi(chat.getNikname());
+            List<Messaggio02> listaMess = mr.trovaMessaggi(chat.getNickName());
         // return dto
             dx.setContatti(listaChat);
             dx.setMessaggi(listaMess);

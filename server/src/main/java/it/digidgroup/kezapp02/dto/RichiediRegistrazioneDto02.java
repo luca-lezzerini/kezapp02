@@ -1,13 +1,13 @@
 package it.digidgroup.kezapp02.dto;
 
 public class RichiediRegistrazioneDto02 {
-    private String nikname;
+    private String nickName;
 
-    public String getNikname() {
-        return nikname;
+    public String getNickName() {
+        return nickName;
     }
 
-    public void setNikname(String nikname) {
-        this.nikname = nikname;
+    public void setNickName(String nickName) {
+        this.nickName = nickName;
     }
 }
