@@ -1,14 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package it.digidgroup.kezapp02.service;
 
-/**
- *
- * @author utente
- */
+import it.digidgroup.kezapp02.dto.RegistrazioneDto02;
+import it.digidgroup.kezapp02.dto.RichiediRegistrazioneDto02;
+
 public interface KezapService02 {
-    
+    RegistrazioneDto02 registrazione(RichiediRegistrazioneDto02 dto);
 }
