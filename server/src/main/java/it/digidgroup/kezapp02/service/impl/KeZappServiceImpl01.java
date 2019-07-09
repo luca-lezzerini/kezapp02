@@ -1,5 +1,6 @@
 package it.digidgroup.kezapp02.service.impl;
 
+import it.digidgroup.kezapp02.dto.RegistrazioneDto0;
 import it.digidgroup.kezapp02.dto.RegistrazioneDto01;
 import it.digidgroup.kezapp02.dto.RichiediRegistrazioneDto01;
 import it.digidgroup.kezapp02.model.Chat01;
@@ -16,8 +17,10 @@ public class KeZappServiceImpl01 implements KeZappService01 {
     public RegistrazioneDto01 registrazione(RichiediRegistrazioneDto01 dto) {
         Chat01 chat = cr.findByNickname(dto.getNickName());
         //Cerco se esiste già nickname
+        RegistrazioneDto01 dx = new RegistrazioneDto01();
         if (chat != null) {
-            RegistrazioneDto01 dx = new RegistrazioneDto01();
+            dx.setSessione(null);
+           
 
         } //se esiste ritorno null altrimenti lo creo generando id di sessione
         else {
@@ -29,10 +32,8 @@ public class KeZappServiceImpl01 implements KeZappService01 {
             cx.setSessione(sessione);
             cx = cr.save(cx);
 
-            RegistrazioneDto01 dx = new RegistrazioneDto01();
-
         }
-        dx.setSessione(null);
+       
         return dx;
     }
 
