@@ -19,6 +19,6 @@ export class AppComponent {
     this.http
     .post<RegistrazioneDto>("http://localhost:8080/registrazione01",
     {nickName: this.nickName});
-    ox.subscribe = (r =)
+    ox.subscribe(r => this.sessione =r.sessione);
   }
 }
