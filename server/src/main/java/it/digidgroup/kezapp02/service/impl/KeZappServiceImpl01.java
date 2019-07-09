@@ -30,7 +30,7 @@ public class KeZappServiceImpl01 implements KeZappService01 {
         } //se esiste ritorno null altrimenti lo creo generando id di sessione
         else {
             Chat01 cx = new Chat01();
-            cx.setNickname(dto.getNickName());
+            cx.setNickName(dto.getNickName());
             cx = cr.save(cx);
 
             String sessione = String.valueOf(cx.getId());
@@ -45,23 +45,23 @@ public class KeZappServiceImpl01 implements KeZappService01 {
     @Override
     public RegistrazioneDto01 inviaTutti(InviaMessaggioDto01 dto) {
         //recupera chat in base alla sesione
-        Chat01 chat = cr.findBySessioned(dto.getSessione());
-//se la chat non esiste ritorna niente
+        Chat01 chat = cr.findBySessione(dto.getSessione());
+        //se la chat non esiste ritorna niente
         RegistrazioneDto01 dx = new RegistrazioneDto01();
         if (chat == null) {
             return dx;
         }
-//se la chat esiste crea e salva il msg
+        //se la chat esiste crea e salva il msg
         Messaggio01 msg = new Messaggio01();
         msg.setAliasDestinatario(null);
         msg.setAliasMittente(chat.getNickName());
         msg.setTesto(dto.getMessaggio());
         mr.save(msg);
-//recupera tutti i contatti
+        //recupera tutti i contatti
         List<Chat01> contatti = cr.findAll();
         //recupera tutti i msg miei o pubblici
         List<Messaggio01> messaggi = mr.trovaMessaggi(
-                chat.getNickname());
+                chat.getNickName());
         //ritorna Dto valorizzato
         dx.setContatti(contatti);
         dx.setMessaggi(messaggi);

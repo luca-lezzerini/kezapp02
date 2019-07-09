@@ -14,8 +14,8 @@ public interface MessaggioRepository01
 
     {
         @Query("select m from Messaggio01 m"
-            + " where (m.nickName = :nn)"
-            + " or (m.nickName is null")
+            + " where (m.aliasDestinatario = :nn)"
+            + " or (m.aliasDestinatario is null")
     List<Messaggio01> trovaMessaggi(
             @Param("nn") String nickName);
 }
