@@ -4,5 +4,36 @@
     <button (click)="registrazione()">Registrazione</button>
 </div>
 <div *ngIf="sessione != null">
-    Io non devo essere visibile. 
+    Io non devo essere visibile.
+    <input type="text" placeholder="nickName" [(ngModel)]="messaggio">
+    <button (click)="inviaTutti()">Invia a tutti</button>
+    <br>
+    Contatti 
+    <br>
+    <table>
+        <tr *ngFor="let c of contatti">
+            <td>{{c.nickName}}</td>
+            <td>
+                <button (click)="inviaUno(c)">
+                    invia
+                 </button>
+            </td>
+        </tr>
+    </table>
+    <br>
+    Mesasggi Ricevuti
+    <button (clic) ="aggiorna()">
+        Aggiorna
+    </button>
+    <br>
+    <table>
+        <tr *ngFor="let m of Mesasggi">
+        <td>
+            {{m.testo}}
+        </td>
+        <td>
+                {{m.aliasMittente}}
+            </td>
+            </tr>
+    </table>
 </div>
