@@ -17,7 +17,7 @@ public class RegistrazioneController21 {
     @Autowired
     RegistrazioneService21 ks;
     
-    @RequestMapping(value = {"/registrazione"})
+    @RequestMapping(value = {"/registrazione21"})
     @ResponseBody
     RegistrazioneDto21 registrazione(@RequestBody RichiediRegistrazioneDto21 dto){
         return ks.registrazione(dto);
