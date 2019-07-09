@@ -17,8 +17,8 @@ import org.springframework.data.repository.query.Param;
  */
 public interface MessaggioRepository02 extends JpaRepository<Messaggio02, Long> {
     @Query("select m from Messaggio02 m"
-            + " (where m.aliasDestinatario = :nn)"
-            + " or ( m.aliasDestinatario is null)")
+            + " where (m.aliasDestinatario = :nn)"
+            + " or (m.aliasDestinatario is null)")
     List<Messaggio02> trovaMessaggi(
             @Param("nn") String nickName);
 }
