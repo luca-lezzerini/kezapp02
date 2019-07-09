@@ -29,6 +29,7 @@ public class KeZappController01 {
     @ResponseBody
     RegistrazioneDto01 inviaTutti(
             @RequestBody InviaMessaggioDto01 dto) {
+        System.out.println("prova");
            return ks.inviaTutti(dto);
     }
 }
