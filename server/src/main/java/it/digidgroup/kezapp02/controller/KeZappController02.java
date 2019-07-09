@@ -1,5 +1,6 @@
 package it.digidgroup.kezapp02.controller;
 
+import it.digidgroup.kezapp02.dto.InviaMessaggioDto02;
 import it.digidgroup.kezapp02.dto.RegistrazioneDto02;
 import it.digidgroup.kezapp02.dto.RichiediRegistrazioneDto02;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,5 +21,11 @@ public class KeZappController02 {
     @ResponseBody
     RegistrazioneDto02 registrazione(@RequestBody RichiediRegistrazioneDto02 dto){
         return ks.registrazione(dto);
+    }
+    
+    @RequestMapping(value = {"/inviaTutti02"})
+    @ResponseBody
+    RegistrazioneDto02 inviaTutti(@RequestBody InviaMessaggioDto02 dto){
+        return ks.inviaTutti(dto);
     }
 }

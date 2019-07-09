@@ -15,9 +15,11 @@ export class AppComponent {
   constructor(private http: HttpClient){}
 
   registrazione(){
+    console.log("Siamo in registrazione");
     let ox: Observable<RegistrazioneDto> = 
     this.http
     .post<RegistrazioneDto>("http://localhost:8080/registrazione0",
     {nickName: this.nickName});
+    ox.subscribe( r => this.sessione = r.sessione);
   }
 }
