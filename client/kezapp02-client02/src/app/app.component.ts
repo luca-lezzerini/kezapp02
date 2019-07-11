@@ -23,7 +23,10 @@ export class AppComponent {
     let ox: Observable<RegistrazioneDto> =
        this.http.post<RegistrazioneDto>("http://localhost:8080/registrazione02",
                                         {nickName:this.nickName});
-    ox.subscribe(r => this.sessione = r.sessione);
+    ox.subscribe(r => {
+      this.sessione = r.sessione;
+      this.aggiorna();
+    });
   }
 
   inviaTutti() {
@@ -35,4 +38,19 @@ export class AppComponent {
                        this.messaggi = r.messaggi});
   }
 
+  inviaUno(dest: Chat) {
+    let ox: Observable<RegistrazioneDto> = this.http.post<RegistrazioneDto>("http://localhost:8080/inviaUno02",
+                                                                              {sessione: this.sessione,
+                                                                               messaggio: this.messaggio,
+                                                                               destinatario: dest.nickName});
+    ox.subscribe(r => {this.contatti = r.contatti;
+                       this.messaggi = r.messaggi});
+  }
+
+  aggiorna() {
+    let ox: Observable<RegistrazioneDto> = this.http.post<RegistrazioneDto>("http://localhost:8080/aggiorna02",
+                                                                              {sessione: this.sessione});
+    ox.subscribe(r => {this.contatti = r.contatti;
+                       this.messaggi = r.messaggi});
+  }
 }
