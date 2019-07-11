@@ -16,14 +16,14 @@ import org.springframework.stereotype.Service;
 public class KeZappServiceImpl0 implements KeZappService0 {
 
     @Autowired
-    ChatRepository0 cr;
+    ChatRepository0 chatRepo;
     @Autowired
     MessaggioRepository0 mr;
 
     @Override
     public RegistrazioneDto0 registrazione(RichiediRegistrazioneDto0 dto) {
         // cerco se esiste già il nickname
-        Chat0 chat = cr.findByNickName(dto.getNickName());
+        Chat0 chat = chatRepo.findByNickName(dto.getNickName());
 
         // se esiste, ossia chat non nullo, 
         // ritorno sessione null ...
@@ -35,10 +35,10 @@ public class KeZappServiceImpl0 implements KeZappService0 {
             // salvo la nuova chat ...
             Chat0 cx = new Chat0();
             cx.setNickName(dto.getNickName());
-            cx = cr.save(cx);
+            cx = chatRepo.save(cx);
             String sessione = String.valueOf(cx.getId());
             cx.setSessione(sessione);
-            cx = cr.save(cx);
+            cx = chatRepo.save(cx);
 
             // ... creo la sessione ...
             dx.setSessione(sessione);
@@ -47,24 +47,33 @@ public class KeZappServiceImpl0 implements KeZappService0 {
     }
 
     @Override
-    public RegistrazioneDto0 inviaTutti(InviaMessaggioDto0 dto) {
+    public RegistrazioneDto0 inviaAUno(InviaMessaggioDto0 dto) {
         // recupera chat in base alla sessione
-        Chat0 chat = cr.findBySessione(dto.getSessione());
+        Chat0 chat = chatRepo.findBySessione(dto.getSessione());
 
         // se la chat non esiste ritorna niente ...
         RegistrazioneDto0 dx = new RegistrazioneDto0();
         if (chat == null) {
             return dx;
         }
+        
+        // verifico esistenza destinatario (se necessario, ossia se non nullo)
+        if (dto.getDestinatario() != null){
+            Chat0 cdest = chatRepo.findByNickName(dto.getDestinatario());
+            if (cdest == null){
+                return dx;
+            }
+        }
+        
         // ... se la chat esiste, crea e salva il messaggio
         Messaggio0 msg = new Messaggio0();
-        msg.setAliasDestinatario(null);
+        msg.setAliasDestinatario(dto.getDestinatario());
         msg.setAliasMittente(chat.getNickName());
         msg.setTesto(dto.getMessaggio());
         msg = mr.save(msg);
 
         // recupera tutti i contatti
-        List<Chat0> contatti = cr.findAll();
+        List<Chat0> contatti = chatRepo.findAll();
 
         // recupera tutti i messaggi miei o pubblici
         List<Messaggio0> messaggi = mr.trovaMessaggi(
@@ -75,5 +84,12 @@ public class KeZappServiceImpl0 implements KeZappService0 {
         dx.setMessaggi(messaggi);
         return dx;
     }
+
+    @Override
+    public RegistrazioneDto0 inviaTutti(InviaMessaggioDto0 dto) {
+        dto.setDestinatario(null);
+        return inviaAUno(dto);
+    }
+
 
 }

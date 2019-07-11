@@ -41,4 +41,19 @@ export class AppComponent {
           this.messaggi = r.messaggi;
         });
   }
+
+  inviaUno(c: Chat) {
+    let ox: Observable<RegistrazioneDto> =
+      this.http.post<RegistrazioneDto>("http://localhost:8080/inviaUno0",
+        {
+          sessione: this.sessione,
+          messaggio: this.messaggio,
+          destinatario: c.nickName
+        });
+        ox.subscribe( r =>{
+          this.contatti = r.contatti;
+          this.messaggi = r.messaggi;
+        });
+  }
+
 }

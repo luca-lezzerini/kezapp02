@@ -31,4 +31,12 @@ public class KeZappController0 {
             @RequestBody InviaMessaggioDto0 dto) {
         return ks.inviaTutti(dto);
     }
+
+    @RequestMapping(value = {"/inviaUno0"})
+    @ResponseBody
+    RegistrazioneDto0 inviaUno(
+            @RequestBody InviaMessaggioDto0 dto) {
+        return ks.inviaAUno(dto);
+    }
+
 }
