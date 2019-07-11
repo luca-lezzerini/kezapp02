@@ -23,37 +23,52 @@ export class AppComponent {
     console.log("Siamo in registrazione");
     let ox: Observable<RegistrazioneDto> =
       this.http
-        .post<RegistrazioneDto>("http://localhost:8080/registrazione0",
+        .post<RegistrazioneDto>("http://84.22.108.21:8080/registrazione0",
           { nickName: this.nickName });
-    ox.subscribe(r => this.sessione = r.sessione);
+    ox.subscribe(r => {
+      this.sessione = r.sessione;
+      this.aggiorna();
+    });
   }
 
   inviaTutti() {
     let ox: Observable<RegistrazioneDto> =
-      this.http.post<RegistrazioneDto>("http://localhost:8080/inviaTutti0",
+      this.http.post<RegistrazioneDto>("http://84.22.108.21:8080/inviaTutti0",
         {
           sessione: this.sessione,
           messaggio: this.messaggio,
           destinatario: null
         });
-        ox.subscribe( r =>{
-          this.contatti = r.contatti;
-          this.messaggi = r.messaggi;
-        });
+    ox.subscribe(r => {
+      this.contatti = r.contatti;
+      this.messaggi = r.messaggi;
+    });
   }
 
   inviaUno(c: Chat) {
     let ox: Observable<RegistrazioneDto> =
-      this.http.post<RegistrazioneDto>("http://localhost:8080/inviaUno0",
+      this.http.post<RegistrazioneDto>("http://84.22.108.21:8080/inviaUno0",
         {
           sessione: this.sessione,
           messaggio: this.messaggio,
           destinatario: c.nickName
         });
-        ox.subscribe( r =>{
-          this.contatti = r.contatti;
-          this.messaggi = r.messaggi;
+    ox.subscribe(r => {
+      this.contatti = r.contatti;
+      this.messaggi = r.messaggi;
+    });
+  }
+
+  aggiorna() {
+    let ox: Observable<RegistrazioneDto> =
+      this.http.post<RegistrazioneDto>("http://84.22.108.21:8080/aggiorna0",
+        {
+          sessione: this.sessione
         });
+    ox.subscribe(r => {
+      this.contatti = r.contatti;
+      this.messaggi = r.messaggi;
+    });
   }
 
 }

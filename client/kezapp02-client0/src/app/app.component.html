@@ -4,8 +4,8 @@
     <button (click)="registrazione()">Registrazione</button>
 </div>
 <div *ngIf="sessione != null">
-    <input type="text" placeholder="messaggio"
-    [(ngModel)]="messaggio">
+    <h1>{{nickName}}</h1>
+    <input type="text" placeholder="messaggio" [(ngModel)]="messaggio">
     <button (click)="inviaTutti()">Invia a tutti</button>
     <br>
     Contatti
