@@ -10,6 +10,8 @@ import it.digidgroup.kezapp02.repository.ChatRepository0;
 import it.digidgroup.kezapp02.repository.MessaggioRepository0;
 import it.digidgroup.kezapp02.service.KeZappService0;
 import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -103,12 +105,24 @@ public class KeZappServiceImpl0 implements KeZappService0 {
         // recupera tutti i contatti
         List<Chat0> contatti = chatRepo.findAll();
 
+        // rimuovo me stesso
+//        for (Chat0 elem : contatti) {
+//            if (elem.getNickName().equals(chat.getNickName())){
+//            }
+//        }
+//        contatti.parallelStream()
+//                .filter(c -> !(c.getNickName().equals(chat.getNickName())))
+//                .forEach(d -> System.out.println("NickName " + d.getNickName()));
+        Stream<Chat0> str = contatti.parallelStream()
+                .filter(c -> !(c.getNickName().equals(chat.getNickName())));
+        List<Chat0> lista = str.collect(Collectors.toList());
+
         // recupera tutti i messaggi miei o pubblici
         List<Messaggio0> messaggi = mr.trovaMessaggi(
                 chat.getNickName());
 
         // ritorna il DTO valorizzato
-        dx.setContatti(contatti);
+        dx.setContatti(lista);
         dx.setMessaggi(messaggi);
         return dx;
     }
