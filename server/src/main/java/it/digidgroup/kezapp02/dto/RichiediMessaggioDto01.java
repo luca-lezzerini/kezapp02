@@ -1,6 +1,8 @@
+
 package it.digidgroup.kezapp02.dto;
 
-public class RichiediMessaggioDto3 {
+
+public class RichiediMessaggioDto01 {
     private String sessione;
 
     public String getSessione() {
@@ -10,4 +12,5 @@ public class RichiediMessaggioDto3 {
     public void setSessione(String sessione) {
         this.sessione = sessione;
     }
+    
 }
