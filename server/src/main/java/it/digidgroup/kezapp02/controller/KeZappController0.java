@@ -2,6 +2,7 @@ package it.digidgroup.kezapp02.controller;
 
 import it.digidgroup.kezapp02.dto.InviaMessaggioDto0;
 import it.digidgroup.kezapp02.dto.RegistrazioneDto0;
+import it.digidgroup.kezapp02.dto.RichiediMessaggiDto;
 import it.digidgroup.kezapp02.dto.RichiediRegistrazioneDto0;
 import it.digidgroup.kezapp02.service.KeZappService0;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -37,6 +38,13 @@ public class KeZappController0 {
     RegistrazioneDto0 inviaUno(
             @RequestBody InviaMessaggioDto0 dto) {
         return ks.inviaAUno(dto);
+    }
+
+    @RequestMapping(value = {"/aggiorna0"})
+    @ResponseBody
+    RegistrazioneDto0 aggiorna(
+            @RequestBody RichiediMessaggiDto dto) {
+        return ks.aggiorna(dto);
     }
 
 }
