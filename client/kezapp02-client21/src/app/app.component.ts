@@ -21,16 +21,42 @@ export class AppComponent {
 
   registrazione(){
     let ox: Observable<RegistrazioneDto> =
-    this.http.post<RegistrazioneDto>("http://localhost:8080/registrazione21",{nickname: this.nickName})
-    ox.subscribe (r => this.sessione = r.sessione);
+      this.http.post<RegistrazioneDto>("http://localhost:8080/registrazione21",
+        {nickname: this.nickName});
+    ox.subscribe (r => {
+      this.sessione = r.sessione;
+      this.aggiorna();
+    });
   }
 
   inviaTutti(){
     let ox: Observable<RegistrazioneDto> =
-    this.http.post<RegistrazioneDto>("http://localhost:8080/inviaTutti21",
-    {sessione: this.sessione,
-      messaggio: this.messaggio,
-      destinatario: null})
+      this.http.post<RegistrazioneDto>("http://localhost:8080/inviaTutti21",
+        {sessione: this.sessione,
+          messaggio: this.messaggio,
+          destinatario: null});
+    ox.subscribe (r => {
+      this.contatti = r.contatti;
+      this.messaggi = r.messaggi;
+    });
+  }
+
+  inviaAUno(c: Chat){
+    let ox: Observable<RegistrazioneDto> =
+      this.http.post<RegistrazioneDto>("http://localhost:8080/inviaUno21",
+      {sessione: this.sessione,
+        messaggio: this.messaggio,
+        destinatario: c.nickName});
+    ox.subscribe (r => {
+      this.contatti = r.contatti;
+      this.messaggi = r.messaggi;
+    });
+  }
+
+  aggiorna(){
+    let ox: Observable<RegistrazioneDto> =
+      this.http.post<RegistrazioneDto>("http://localhost:8080/aggiorna21",
+      {sessione: this.sessione});
     ox.subscribe (r => {
       this.contatti = r.contatti;
       this.messaggi = r.messaggi;
